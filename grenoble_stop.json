@@ -1,0 +1,3594 @@
+[
+    {
+        "id": "SEM:LAPOYA",
+        "code": "SEM:GENLAPOYA",
+        "city": "Fontaine",
+        "name": "La Poya",
+        "visible": true,
+        "lat": 45.19709,
+        "lon": 5.67222
+    },
+    {
+        "id": "SEM:CHARLMIC",
+        "code": "SEM:GENCHARLMIC",
+        "city": "Fontaine",
+        "name": "Charles Michels",
+        "visible": true,
+        "lat": 45.19385,
+        "lon": 5.68009
+    },
+    {
+        "id": "SEM:FONTAHDV",
+        "code": "SEM:GENFONTAHDV",
+        "city": "Fontaine",
+        "name": "Fontaine Hôtel de Ville - La Source",
+        "visible": true,
+        "lat": 45.19134,
+        "lon": 5.68727
+    },
+    {
+        "id": "SEM:MAISONNA",
+        "code": "SEM:GENMAISONNA",
+        "city": "Fontaine",
+        "name": "Louis Maisonnat",
+        "visible": true,
+        "lat": 45.18912,
+        "lon": 5.69409
+    },
+    {
+        "id": "SEM:FONTAINA",
+        "code": "SEM:GENFONTAINA",
+        "city": "Fontaine",
+        "name": "Les Fontainades - Le Vog",
+        "visible": true,
+        "lat": 45.18909,
+        "lon": 5.69844
+    },
+    {
+        "id": "SEM:BER",
+        "code": "SEM:GENBER",
+        "city": "Grenoble",
+        "name": "Berriat - Le Magasin",
+        "visible": true,
+        "lat": 45.18849,
+        "lon": 5.7058
+    },
+    {
+        "id": "SEM:STBRUNO",
+        "code": "SEM:GENSTBRUNO",
+        "city": "Grenoble",
+        "name": "Saint-Bruno",
+        "visible": true,
+        "lat": 45.18833,
+        "lon": 5.71351
+    },
+    {
+        "id": "SEM:GARES",
+        "code": "SEM:GENGARES",
+        "city": "Grenoble",
+        "name": "Gares",
+        "visible": true,
+        "lat": 45.19078,
+        "lon": 5.71554
+    },
+    {
+        "id": "SEM:ALSACELO",
+        "code": "SEM:GENALSACELO",
+        "city": "Grenoble",
+        "name": "Alsace-Lorraine",
+        "visible": true,
+        "lat": 45.18911,
+        "lon": 5.7193
+    },
+    {
+        "id": "SEM:VICTHUGO",
+        "code": "SEM:GENVICTHUGO",
+        "city": "Grenoble",
+        "name": "Victor Hugo",
+        "visible": true,
+        "lat": 45.18938,
+        "lon": 5.72499
+    },
+    {
+        "id": "SEM:DUBEDOUT",
+        "code": "SEM:GENDUBEDOUT",
+        "city": "Grenoble",
+        "name": "Hubert Dubedout - Maison du Tourisme",
+        "visible": true,
+        "lat": 45.1902,
+        "lon": 5.72822
+    },
+    {
+        "id": "SEM:VERDUN",
+        "code": "SEM:GENVERDUN",
+        "city": "Grenoble",
+        "name": "Verdun - Préfecture",
+        "visible": true,
+        "lat": 45.1883,
+        "lon": 5.73144
+    },
+    {
+        "id": "SEM:CHAVANT",
+        "code": "SEM:GENCHAVANT",
+        "city": "Grenoble",
+        "name": "Chavant",
+        "visible": true,
+        "lat": 45.18466,
+        "lon": 5.73177
+    },
+    {
+        "id": "SEM:ALB1BELG",
+        "code": "SEM:GENALB1BELG",
+        "city": "Grenoble",
+        "name": "Albert 1er de Belgique",
+        "visible": true,
+        "lat": 45.18168,
+        "lon": 5.73167
+    },
+    {
+        "id": "SEM:MOUNIER",
+        "code": "SEM:GENMOUNIER",
+        "city": "Grenoble",
+        "name": "Mounier",
+        "visible": true,
+        "lat": 45.179,
+        "lon": 5.73179
+    },
+    {
+        "id": "SEM:MC2",
+        "code": "SEM:GENMC2",
+        "city": "Grenoble",
+        "name": "MC2: Maison de la Culture",
+        "visible": true,
+        "lat": 45.17349,
+        "lon": 5.73203
+    },
+    {
+        "id": "SEM:MALHERBE",
+        "code": "SEM:GENMALHERBE",
+        "city": "Grenoble",
+        "name": "Malherbe",
+        "visible": true,
+        "lat": 45.16928,
+        "lon": 5.73229
+    },
+    {
+        "id": "SEM:BRUYERE",
+        "code": "SEM:GENBRUYERE",
+        "city": "Grenoble",
+        "name": "La Bruyère-Parc Jean Verlhac",
+        "visible": true,
+        "lat": 45.16635,
+        "lon": 5.73118
+    },
+    {
+        "id": "SEM:ARLEQUIN",
+        "code": "SEM:GENARLEQUIN",
+        "city": "Grenoble",
+        "name": "Arlequin",
+        "visible": true,
+        "lat": 45.16359,
+        "lon": 5.73047
+    },
+    {
+        "id": "SEM:GP",
+        "code": "SEM:GENGP",
+        "city": "Grenoble",
+        "name": "Grand'place",
+        "visible": true,
+        "lat": 45.15922,
+        "lon": 5.73265
+    },
+    {
+        "id": "SEM:POLESUD",
+        "code": "SEM:GENPOLESUD",
+        "city": "Grenoble",
+        "name": "Polesud - Alpexpo",
+        "visible": true,
+        "lat": 45.15715,
+        "lon": 5.73384
+    },
+    {
+        "id": "SEM:GRANGES",
+        "code": "SEM:GENGRANGES",
+        "city": "Échirolles",
+        "name": "Les Granges",
+        "visible": true,
+        "lat": 45.15696,
+        "lon": 5.72781
+    },
+    {
+        "id": "SEM:SURIEUX",
+        "code": "SEM:GENSURIEUX",
+        "city": "Échirolles",
+        "name": "Surieux",
+        "visible": true,
+        "lat": 45.15846,
+        "lon": 5.72192
+    },
+    {
+        "id": "SEM:ESSARTS",
+        "code": "SEM:GENESSARTS",
+        "city": "Échirolles",
+        "name": "Essarts - La Butte",
+        "visible": true,
+        "lat": 45.15588,
+        "lon": 5.71909
+    },
+    {
+        "id": "SEM:ECHIGARE",
+        "code": "SEM:GENECHIGARE",
+        "city": "Échirolles",
+        "name": "Echirolles Gare",
+        "visible": true,
+        "lat": 45.15302,
+        "lon": 5.71848
+    },
+    {
+        "id": "SEM:RAMPE",
+        "code": "SEM:GENRAMPE",
+        "city": "Échirolles",
+        "name": "La Rampe - Centre-Ville",
+        "visible": true,
+        "lat": 45.14948,
+        "lon": 5.71818
+    },
+    {
+        "id": "SEM:MARIECUR",
+        "code": "SEM:GENMARIECUR",
+        "city": "Échirolles",
+        "name": "Marie Curie",
+        "visible": true,
+        "lat": 45.14523,
+        "lon": 5.71704
+    },
+    {
+        "id": "SEM:ADELAUNE",
+        "code": "SEM:GENADELAUNE",
+        "city": "Échirolles",
+        "name": "Auguste Delaune",
+        "visible": true,
+        "lat": 45.14292,
+        "lon": 5.71527
+    },
+    {
+        "id": "SEM:DENPAPIN",
+        "code": "SEM:GENDENPAPIN",
+        "city": "Échirolles",
+        "name": "Denis Papin",
+        "visible": true,
+        "lat": 45.13832,
+        "lon": 5.71307
+    },
+    {
+        "id": "SEM:CHANDON",
+        "code": "SEM:GENCHANDON",
+        "city": "Le Pont-de-Claix",
+        "name": "Edmée Chandon",
+        "visible": true,
+        "lat": 45.13671,
+        "lon": 5.7083
+    },
+    {
+        "id": "SEM:LETOILE",
+        "code": "SEM:GENLETOILE",
+        "city": "Le Pont-de-Claix",
+        "name": "L'Étoile",
+        "visible": true,
+        "lat": 45.13788,
+        "lon": 5.7033
+    },
+
+    {
+        "id": "SEM:OXF",
+        "code": "SEM:GENOXF",
+        "city": "Grenoble",
+        "name": "Oxford",
+        "visible": true,
+        "lat": 45.20481,
+        "lon": 5.70122
+    },
+    {
+        "id": "SEM:CEACAMB",
+        "code": "SEM:GENCEACAMB",
+        "city": "Grenoble",
+        "name": "Marie-Louise Paris - CEA",
+        "visible": true,
+        "lat": 45.20216,
+        "lon": 5.70431
+    },
+    {
+        "id": "SEM:CITEINTE",
+        "code": "SEM:GENCITEINTE",
+        "city": "Grenoble",
+        "name": "Cité Internationale",
+        "visible": true,
+        "lat": 45.19508,
+        "lon": 5.7112
+    },
+    {
+        "id": "SEM:PALJUSTI",
+        "code": "SEM:GENPALJUSTI",
+        "city": "Grenoble",
+        "name": "Palais de Justice - Gare",
+        "visible": true,
+        "lat": 45.19164,
+        "lon": 5.71086
+    },
+    {
+        "id": "SEM:STBRUNO",
+        "code": "SEM:GENSTBRUNO",
+        "city": "Grenoble",
+        "name": "Saint-Bruno",
+        "visible": true,
+        "lat": 45.18833,
+        "lon": 5.71351
+    },
+    {
+        "id": "SEM:GARES",
+        "code": "SEM:GENGARES",
+        "city": "Grenoble",
+        "name": "Gares",
+        "visible": true,
+        "lat": 45.19078,
+        "lon": 5.71554
+    },
+    {
+        "id": "SEM:ALSACELO",
+        "code": "SEM:GENALSACELO",
+        "city": "Grenoble",
+        "name": "Alsace-Lorraine",
+        "visible": true,
+        "lat": 45.18911,
+        "lon": 5.7193
+    },
+    {
+        "id": "SEM:VICTHUGO",
+        "code": "SEM:GENVICTHUGO",
+        "city": "Grenoble",
+        "name": "Victor Hugo",
+        "visible": true,
+        "lat": 45.18938,
+        "lon": 5.72499
+    },
+    {
+        "id": "SEM:DUBEDOUT",
+        "code": "SEM:GENDUBEDOUT",
+        "city": "Grenoble",
+        "name": "Hubert Dubedout - Maison du Tourisme",
+        "visible": true,
+        "lat": 45.1902,
+        "lon": 5.72822
+    },
+    {
+        "id": "SEM:STECLAIR",
+        "code": "SEM:GENSTECLAIR",
+        "city": "Grenoble",
+        "name": "Sainte-Claire - Les Halles",
+        "visible": true,
+        "lat": 45.19146,
+        "lon": 5.73067
+    },
+    {
+        "id": "SEM:NOTREDAM",
+        "code": "SEM:GENNOTREDAM",
+        "city": "Grenoble",
+        "name": "Notre-Dame - Musée",
+        "visible": true,
+        "lat": 45.19358,
+        "lon": 5.73214
+    },
+    {
+        "id": "SEM:ILEVERTE",
+        "code": "SEM:GENILEVERTE",
+        "city": "Grenoble",
+        "name": "Ile Verte",
+        "visible": true,
+        "lat": 45.19713,
+        "lon": 5.73662
+    },
+    {
+        "id": "SEM:TRONCHOP",
+        "code": "SEM:GENTRONCHOP",
+        "city": "La Tronche",
+        "name": "Hôpital Couple Enfant",
+        "visible": true,
+        "lat": 45.20123,
+        "lon": 5.74184
+    },
+    {
+        "id": "SEM:MICHALLO",
+        "code": "SEM:GENMICHALLO",
+        "city": "La Tronche",
+        "name": "Hôpital Michallon - Grésivaudan",
+        "visible": true,
+        "lat": 45.20028,
+        "lon": 5.74533
+    },
+    {
+        "id": "SEM:GRDSABLO",
+        "code": "SEM:GENGRDSABLO",
+        "city": "La Tronche",
+        "name": "Grand Sablon",
+        "visible": true,
+        "lat": 45.19903,
+        "lon": 5.75
+    },
+    {
+        "id": "SEM:TA",
+        "code": "SEM:GENTA",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Université - Les Taillées",
+        "visible": true,
+        "lat": 45.1917,
+        "lon": 5.75833
+    },
+    {
+        "id": "SEM:GABFAURE",
+        "code": "SEM:GENGABFAURE",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Gabriel Fauré - MUSE",
+        "visible": true,
+        "lat": 45.19228,
+        "lon": 5.7643
+    },
+    {
+        "id": "SEM:BIBLIUNI",
+        "code": "SEM:GENBIBLIUNI",
+        "city": "Gières",
+        "name": "Université - Bibliothèques",
+        "visible": true,
+        "lat": 45.19246,
+        "lon": 5.7709
+    },
+    {
+        "id": "SEM:CONDIUNI",
+        "code": "SEM:GENCONDIUNI",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Université - Condillac",
+        "visible": true,
+        "lat": 45.18915,
+        "lon": 5.77445
+    },
+    {
+        "id": "SEM:MAYENCIN",
+        "code": "SEM:GENMAYENCIN",
+        "city": "Gières",
+        "name": "Mayencin - Champ Roman",
+        "visible": true,
+        "lat": 45.18491,
+        "lon": 5.77895
+    },
+    {
+        "id": "SEM:GIERGARE",
+        "code": "SEM:GENGIERGARE",
+        "city": "Gières",
+        "name": "Gières Gare - Université",
+        "visible": true,
+        "lat": 45.18528,
+        "lon": 5.78458
+    },
+    {
+        "id": "SEM:PLAINEDS",
+        "code": "SEM:GENPLAINEDS",
+        "city": "Gières",
+        "name": "Plaine des Sports",
+        "visible": true,
+        "lat": 45.18805,
+        "lon": 5.78421
+    },
+    {
+        "id": "SEM:PRISME",
+        "code": "SEM:GENPRISME",
+        "city": "Seyssins",
+        "name": "Le Prisme",
+        "visible": true,
+        "lat": 45.16639,
+        "lon": 5.69055
+    },
+    {
+        "id": "SEM:MASDESIL",
+        "code": "SEM:GENMASDESIL",
+        "city": "Seyssins",
+        "name": "Mas des Iles",
+        "visible": true,
+        "lat": 45.16727,
+        "lon": 5.69424
+    },
+    {
+        "id": "SEM:GRANDPRE",
+        "code": "SEM:GENGRANDPRE",
+        "city": "Seyssinet-Pariset",
+        "name": "Grand Pré",
+        "visible": true,
+        "lat": 45.17178,
+        "lon": 5.69424
+    },
+    {
+        "id": "SEM:FAUCONNI",
+        "code": "SEM:GENFAUCONNI",
+        "city": "Seyssinet-Pariset",
+        "name": "Fauconnière",
+        "visible": true,
+        "lat": 45.17651,
+        "lon": 5.69427
+    },
+    {
+        "id": "SEM:SEYHDV",
+        "code": "SEM:GENSEYHDV",
+        "city": "Seyssinet-Pariset",
+        "name": "Seyssinet-Pariset Hôtel de Ville",
+        "visible": true,
+        "lat": 45.18032,
+        "lon": 5.69707
+    },
+    {
+        "id": "SEM:VALLCATA",
+        "code": "SEM:GENVALLCATA",
+        "city": "Grenoble",
+        "name": "Vallier - Catane",
+        "visible": true,
+        "lat": 45.18002,
+        "lon": 5.70558
+    },
+    {
+        "id": "SEM:VACA",
+        "code": "SEM:GENVACA",
+        "city": "Grenoble",
+        "name": "Vallier - Docteur Calmette",
+        "visible": true,
+        "lat": 45.1805,
+        "lon": 5.71127
+    },
+    {
+        "id": "SEM:VALLIBE",
+        "code": "SEM:GENVALLIBE",
+        "city": "Grenoble",
+        "name": "Vallier - Libération",
+        "visible": true,
+        "lat": 45.18013,
+        "lon": 5.71608
+    },
+    {
+        "id": "SEM:FOCHFERI",
+        "code": "SEM:GENFOCHFERI",
+        "city": "Grenoble",
+        "name": "Foch - Ferrié",
+        "visible": true,
+        "lat": 45.1808,
+        "lon": 5.72256
+    },
+    {
+        "id": "SEM:GUSTRIVE",
+        "code": "SEM:GENGUSTRIVE",
+        "city": "Grenoble",
+        "name": "Gustave Rivet",
+        "visible": true,
+        "lat": 45.1817,
+        "lon": 5.72783
+    },
+    {
+        "id": "SEM:CHAVANT",
+        "code": "SEM:GENCHAVANT",
+        "city": "Grenoble",
+        "name": "Chavant",
+        "visible": true,
+        "lat": 45.18466,
+        "lon": 5.73177
+    },
+    {
+        "id": "SEM:GREHOTEL",
+        "code": "SEM:GENGREHOTEL",
+        "city": "Grenoble",
+        "name": "Grenoble Hôtel de Ville",
+        "visible": true,
+        "lat": 45.18746,
+        "lon": 5.73779
+    },
+    {
+        "id": "SEM:VALMY",
+        "code": "SEM:GENVALMY",
+        "city": "Grenoble",
+        "name": "Flandrin - Valmy",
+        "visible": true,
+        "lat": 45.18719,
+        "lon": 5.7448
+    },
+    {
+        "id": "SEM:PERIBROS",
+        "code": "SEM:GENPERIBROS",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Péri - Brossolette",
+        "visible": true,
+        "lat": 45.18771,
+        "lon": 5.75142
+    },
+    {
+        "id": "SEM:NEYRBELL",
+        "code": "SEM:GENNEYRBELL",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Neyrpic - Belledonne",
+        "visible": true,
+        "lat": 45.18669,
+        "lon": 5.75716
+    },
+    {
+        "id": "SEM:TA",
+        "code": "SEM:GENTA",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Université - Les Taillées",
+        "visible": true,
+        "lat": 45.1917,
+        "lon": 5.75833
+    },
+    {
+        "id": "SEM:GABFAURE",
+        "code": "SEM:GENGABFAURE",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Gabriel Fauré - MUSE",
+        "visible": true,
+        "lat": 45.19228,
+        "lon": 5.7643
+    },
+    {
+        "id": "SEM:BIBLIUNI",
+        "code": "SEM:GENBIBLIUNI",
+        "city": "Gières",
+        "name": "Université - Bibliothèques",
+        "visible": true,
+        "lat": 45.19246,
+        "lon": 5.7709
+    },
+    {
+        "id": "SEM:CONDIUNI",
+        "code": "SEM:GENCONDIUNI",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Université - Condillac",
+        "visible": true,
+        "lat": 45.18915,
+        "lon": 5.77445
+    },
+    {
+        "id": "SEM:MAYENCIN",
+        "code": "SEM:GENMAYENCIN",
+        "city": "Gières",
+        "name": "Mayencin - Champ Roman",
+        "visible": true,
+        "lat": 45.18491,
+        "lon": 5.77895
+    },
+    {
+        "id": "SEM:GIERGARE",
+        "code": "SEM:GENGIERGARE",
+        "city": "Gières",
+        "name": "Gières Gare - Université",
+        "visible": true,
+        "lat": 45.18528,
+        "lon": 5.78458
+    },
+    {
+        "id": "SEM:PLAINEDS",
+        "code": "SEM:GENPLAINEDS",
+        "city": "Gières",
+        "name": "Plaine des Sports",
+        "visible": true,
+        "lat": 45.18805,
+        "lon": 5.78421
+    },
+    {
+        "id": "SEM:NEYRBELL",
+        "code": "SEM:GENNEYRBELL",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Neyrpic - Belledonne",
+        "visible": true,
+        "lat": 45.18669,
+        "lon": 5.75716
+    },
+    {
+        "id": "SEM:MC",
+        "code": "SEM:GENMC",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Maison Communale",
+        "visible": true,
+        "lat": 45.18395,
+        "lon": 5.75378
+    },
+    {
+        "id": "SEM:EDVAILLA",
+        "code": "SEM:GENEDVAILLA",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Edouard Vaillant",
+        "visible": true,
+        "lat": 45.17902,
+        "lon": 5.75528
+    },
+    {
+        "id": "SEM:BLANCHON",
+        "code": "SEM:GENBLANCHON",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Parc Jo Blanchon",
+        "visible": true,
+        "lat": 45.17585,
+        "lon": 5.75684
+    },
+    {
+        "id": "SEM:ETIEGRAP",
+        "code": "SEM:GENETIEGRAP",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Etienne Grappe",
+        "visible": true,
+        "lat": 45.17213,
+        "lon": 5.75769
+    },
+    {
+        "id": "SEM:GARES",
+        "code": "SEM:GENGARES",
+        "city": "Grenoble",
+        "name": "Gares",
+        "visible": true,
+        "lat": 45.19078,
+        "lon": 5.71554
+    },
+    {
+        "id": "SEM:ALSACELO",
+        "code": "SEM:GENALSACELO",
+        "city": "Grenoble",
+        "name": "Alsace-Lorraine",
+        "visible": true,
+        "lat": 45.18911,
+        "lon": 5.7193
+    },
+    {
+        "id": "SEM:VICTHUGO",
+        "code": "SEM:GENVICTHUGO",
+        "city": "Grenoble",
+        "name": "Victor Hugo",
+        "visible": true,
+        "lat": 45.18938,
+        "lon": 5.72499
+    },
+    {
+        "id": "SEM:DUBEDOUT",
+        "code": "SEM:GENDUBEDOUT",
+        "city": "Grenoble",
+        "name": "Hubert Dubedout - Maison du Tourisme",
+        "visible": true,
+        "lat": 45.1902,
+        "lon": 5.72822
+    },
+    {
+        "id": "SEM:STECLAIR",
+        "code": "SEM:GENSTECLAIR",
+        "city": "Grenoble",
+        "name": "Sainte-Claire - Les Halles",
+        "visible": true,
+        "lat": 45.19146,
+        "lon": 5.73067
+    },
+    {
+        "id": "SEM:NOTREDAM",
+        "code": "SEM:GENNOTREDAM",
+        "city": "Grenoble",
+        "name": "Notre-Dame - Musée",
+        "visible": true,
+        "lat": 45.19358,
+        "lon": 5.73214
+    },
+    {
+        "id": "SEM:ILEVERTE",
+        "code": "SEM:GENILEVERTE",
+        "city": "Grenoble",
+        "name": "Ile Verte",
+        "visible": true,
+        "lat": 45.19713,
+        "lon": 5.73662
+    },
+    {
+        "id": "SEM:TRONCHOP",
+        "code": "SEM:GENTRONCHOP",
+        "city": "La Tronche",
+        "name": "Hôpital Couple Enfant",
+        "visible": true,
+        "lat": 45.20123,
+        "lon": 5.74184
+    },
+    {
+        "id": "SEM:MICHALLO",
+        "code": "SEM:GENMICHALLO",
+        "city": "La Tronche",
+        "name": "Hôpital Michallon - Grésivaudan",
+        "visible": true,
+        "lat": 45.20028,
+        "lon": 5.74533
+    },
+    {
+        "id": "SEM:GRDSABLO",
+        "code": "SEM:GENGRDSABLO",
+        "city": "La Tronche",
+        "name": "Grand Sablon",
+        "visible": true,
+        "lat": 45.19903,
+        "lon": 5.75
+    },
+    {
+        "id": "SEM:TA",
+        "code": "SEM:GENTA",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Université - Les Taillées",
+        "visible": true,
+        "lat": 45.1917,
+        "lon": 5.75833
+    },
+    {
+        "id": "SEM:GABFAURE",
+        "code": "SEM:GENGABFAURE",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Gabriel Fauré - MUSE",
+        "visible": true,
+        "lat": 45.19228,
+        "lon": 5.7643
+    },
+    {
+        "id": "SEM:BIBLIUNI",
+        "code": "SEM:GENBIBLIUNI",
+        "city": "Gières",
+        "name": "Université - Bibliothèques",
+        "visible": true,
+        "lat": 45.19246,
+        "lon": 5.7709
+    },
+    {
+        "id": "SEM:CONDIUNI",
+        "code": "SEM:GENCONDIUNI",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Université - Condillac",
+        "visible": true,
+        "lat": 45.18915,
+        "lon": 5.77445
+    },
+    {
+        "id": "SEM:MAYENCIN",
+        "code": "SEM:GENMAYENCIN",
+        "city": "Gières",
+        "name": "Mayencin - Champ Roman",
+        "visible": true,
+        "lat": 45.18491,
+        "lon": 5.77895
+    },
+    {
+        "id": "SEM:GIERGARE",
+        "code": "SEM:GENGIERGARE",
+        "city": "Gières",
+        "name": "Gières Gare - Université",
+        "visible": true,
+        "lat": 45.18528,
+        "lon": 5.78458
+    },
+    {
+        "id": "SEM:PLAINEDS",
+        "code": "SEM:GENPLAINEDS",
+        "city": "Gières",
+        "name": "Plaine des Sports",
+        "visible": true,
+        "lat": 45.18805,
+        "lon": 5.78421
+    },
+    {
+        "id": "SEM:FOCHFERI",
+        "code": "SEM:GENFOCHFERI",
+        "city": "Grenoble",
+        "name": "Foch - Ferrié",
+        "visible": true,
+        "lat": 45.1808,
+        "lon": 5.72256
+    },
+    {
+        "id": "SEM:GUSTRIVE",
+        "code": "SEM:GENGUSTRIVE",
+        "city": "Grenoble",
+        "name": "Gustave Rivet",
+        "visible": true,
+        "lat": 45.1817,
+        "lon": 5.72783
+    },
+    {
+        "id": "SEM:CHAVANT",
+        "code": "SEM:GENCHAVANT",
+        "city": "Grenoble",
+        "name": "Chavant",
+        "visible": true,
+        "lat": 45.18466,
+        "lon": 5.73177
+    },
+    {
+        "id": "SEM:GREHOTEL",
+        "code": "SEM:GENGREHOTEL",
+        "city": "Grenoble",
+        "name": "Grenoble Hôtel de Ville",
+        "visible": true,
+        "lat": 45.18746,
+        "lon": 5.73779
+    },
+    {
+        "id": "SEM:VALMY",
+        "code": "SEM:GENVALMY",
+        "city": "Grenoble",
+        "name": "Flandrin - Valmy",
+        "visible": true,
+        "lat": 45.18719,
+        "lon": 5.7448
+    },
+    {
+        "id": "SEM:PERIBROS",
+        "code": "SEM:GENPERIBROS",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Péri - Brossolette",
+        "visible": true,
+        "lat": 45.18771,
+        "lon": 5.75142
+    },
+    {
+        "id": "SEM:NEYRBELL",
+        "code": "SEM:GENNEYRBELL",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Neyrpic - Belledonne",
+        "visible": true,
+        "lat": 45.18669,
+        "lon": 5.75716
+    },
+    {
+        "id": "SEM:TA",
+        "code": "SEM:GENTA",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Université - Les Taillées",
+        "visible": true,
+        "lat": 45.1917,
+        "lon": 5.75833
+    },
+    {
+        "id": "SEM:GABFAURE",
+        "code": "SEM:GENGABFAURE",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Gabriel Fauré - MUSE",
+        "visible": true,
+        "lat": 45.19228,
+        "lon": 5.7643
+    },
+    {
+        "id": "SEM:BIBLIUNI",
+        "code": "SEM:GENBIBLIUNI",
+        "city": "Gières",
+        "name": "Université - Bibliothèques",
+        "visible": true,
+        "lat": 45.19246,
+        "lon": 5.7709
+    },
+    {
+        "id": "SEM:CONDIUNI",
+        "code": "SEM:GENCONDIUNI",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Université - Condillac",
+        "visible": true,
+        "lat": 45.18915,
+        "lon": 5.77445
+    },
+    {
+        "id": "SEM:MAYENCIN",
+        "code": "SEM:GENMAYENCIN",
+        "city": "Gières",
+        "name": "Mayencin - Champ Roman",
+        "visible": true,
+        "lat": 45.18491,
+        "lon": 5.77895
+    },
+    {
+        "id": "SEM:GIERGARE",
+        "code": "SEM:GENGIERGARE",
+        "city": "Gières",
+        "name": "Gières Gare - Université",
+        "visible": true,
+        "lat": 45.18528,
+        "lon": 5.78458
+    },
+    {
+        "id": "SEM:PLAINEDS",
+        "code": "SEM:GENPLAINEDS",
+        "city": "Gières",
+        "name": "Plaine des Sports",
+        "visible": true,
+        "lat": 45.18805,
+        "lon": 5.78421
+    },
+    {
+        "id": "SEM:FTL",
+        "code": "SEM:GENFTL",
+        "city": "Fontanil-Cornillon",
+        "name": "Palluel",
+        "visible": true,
+        "lat": 45.25502,
+        "lon": 5.66171
+    },
+    {
+        "id": "SEM:RAFOUR",
+        "code": "SEM:GENRAFOUR",
+        "city": "Fontanil-Cornillon",
+        "name": "Rafour",
+        "visible": true,
+        "lat": 45.24868,
+        "lon": 5.66688
+    },
+    {
+        "id": "SEM:KARBEN",
+        "code": "SEM:GENKARBEN",
+        "city": "Saint-Égrève",
+        "name": "Karben",
+        "visible": true,
+        "lat": 45.24235,
+        "lon": 5.67093
+    },
+    {
+        "id": "SEM:PINEA",
+        "code": "SEM:GENPINEA",
+        "city": "Saint-Égrève",
+        "name": "La Pinéa - St Robert",
+        "visible": true,
+        "lat": 45.23565,
+        "lon": 5.67549
+    },
+    {
+        "id": "SEM:PTVENCE",
+        "code": "SEM:GENPTVENCE",
+        "city": "Saint-Égrève",
+        "name": "Pont de Vence",
+        "visible": true,
+        "lat": 45.23009,
+        "lon": 5.6823
+    },
+    {
+        "id": "SEM:MURET",
+        "code": "SEM:GENMURET",
+        "city": "Saint-Égrève",
+        "name": "Muret",
+        "visible": true,
+        "lat": 45.22618,
+        "lon": 5.68616
+    },
+    {
+        "id": "SEM:PREDIEU",
+        "code": "SEM:GENPREDIEU",
+        "city": "Saint-Égrève",
+        "name": "Fiancey - Prédieu",
+        "visible": true,
+        "lat": 45.22359,
+        "lon": 5.68827
+    },
+    {
+        "id": "SEM:NERON",
+        "code": "SEM:GENNERON",
+        "city": "Saint-Martin-le-Vinoux",
+        "name": "Néron",
+        "visible": true,
+        "lat": 45.21782,
+        "lon": 5.69334
+    },
+    {
+        "id": "SEM:HORLOGE",
+        "code": "SEM:GENHORLOGE",
+        "city": "Saint-Martin-le-Vinoux",
+        "name": "Horloge",
+        "visible": true,
+        "lat": 45.21363,
+        "lon": 5.69885
+    },
+    {
+        "id": "SEM:MAIRIESM",
+        "code": "SEM:GENMAIRIESM",
+        "city": "Saint-Martin-le-Vinoux",
+        "name": "Saint-Martin-le-Vinoux Hôtel de Ville",
+        "visible": true,
+        "lat": 45.20826,
+        "lon": 5.70685
+    },
+    {
+        "id": "SEM:CASAVILL",
+        "code": "SEM:GENCASAVILL",
+        "city": "Grenoble",
+        "name": "Casamaures - Village",
+        "visible": true,
+        "lat": 45.19902,
+        "lon": 5.71747
+    },
+    {
+        "id": "SEM:ESPLANAD",
+        "code": "SEM:GENESPLANAD",
+        "city": "Grenoble",
+        "name": "Annie Fratellini - Esplanade",
+        "visible": true,
+        "lat": 45.19566,
+        "lon": 5.71679
+    },
+    {
+        "id": "SEM:ALSACELO",
+        "code": "SEM:GENALSACELO",
+        "city": "Grenoble",
+        "name": "Alsace-Lorraine",
+        "visible": true,
+        "lat": 45.18911,
+        "lon": 5.7193
+    },
+    {
+        "id": "SEM:CONDORCE",
+        "code": "SEM:GENCONDORCE",
+        "city": "Grenoble",
+        "name": "Condorcet",
+        "visible": true,
+        "lat": 45.18553,
+        "lon": 5.71823
+    },
+    {
+        "id": "SEM:VALLIBE",
+        "code": "SEM:GENVALLIBE",
+        "city": "Grenoble",
+        "name": "Vallier - Libération",
+        "visible": true,
+        "lat": 45.18013,
+        "lon": 5.71608
+    },
+    {
+        "id": "SEM:ALLIES",
+        "code": "SEM:GENALLIES",
+        "city": "Grenoble",
+        "name": "Alliés",
+        "visible": true,
+        "lat": 45.17398,
+        "lon": 5.71427
+    },
+    {
+        "id": "SEM:LMICHEL",
+        "code": "SEM:GENLMICHEL",
+        "city": "Grenoble",
+        "name": "Louise Michel",
+        "visible": true,
+        "lat": 45.16976,
+        "lon": 5.71287
+    },
+    {
+        "id": "SEM:INOVALLE",
+        "code": "SEM:GENINOVALLE",
+        "city": "Meylan",
+        "name": "Inovallée",
+        "visible": true,
+        "lat": 45.20783,
+        "lon": 5.78955
+    },
+    {
+        "id": "SEM:MAC",
+        "code": "SEM:GENMAC",
+        "city": "Meylan",
+        "name": "Malacher",
+        "visible": true,
+        "lat": 45.20988,
+        "lon": 5.78679
+    },
+    {
+        "id": "SEM:EAU",
+        "code": "SEM:GENEAU",
+        "city": "Montbonnot-Saint-Martin",
+        "name": "Pré de l'Eau",
+        "visible": true,
+        "lat": 45.22387,
+        "lon": 5.82043
+    },
+    {
+        "id": "SEM:PRM",
+        "code": "SEM:GENPRM",
+        "city": "Montbonnot-Saint-Martin",
+        "name": "Pré Millet",
+        "visible": true,
+        "lat": 45.22158,
+        "lon": 5.81285
+    },
+    {
+        "id": "SEM:INR",
+        "code": "SEM:GENINR",
+        "city": "Montbonnot-Saint-Martin",
+        "name": "INRIA",
+        "visible": true,
+        "lat": 45.21752,
+        "lon": 5.80742
+    },
+    {
+        "id": "SEM:BOD",
+        "code": "SEM:GENBOD",
+        "city": "Montbonnot-Saint-Martin",
+        "name": "Baudonniere",
+        "visible": true,
+        "lat": 45.21447,
+        "lon": 5.80777
+    },
+    {
+        "id": "SEM:BUS",
+        "code": "SEM:GENBUS",
+        "city": "Meylan",
+        "name": "Busserolles",
+        "visible": true,
+        "lat": 45.209,
+        "lon": 5.79835
+    },
+    {
+        "id": "SEM:MO",
+        "code": "SEM:GENMO",
+        "city": "Meylan",
+        "name": "Charlaix - Maupertuis",
+        "visible": true,
+        "lat": 45.21191,
+        "lon": 5.79725
+    },
+    {
+        "id": "SEM:BEALIERE",
+        "code": "SEM:GENBEALIERE",
+        "city": "Meylan",
+        "name": "Les Béalières",
+        "visible": true,
+        "lat": 45.21153,
+        "lon": 5.7907
+    },
+    {
+        "id": "SEM:MALACHER",
+        "code": "SEM:GENMALACHER",
+        "city": "Meylan",
+        "name": "Malacher",
+        "visible": false,
+        "lat": 45.21122,
+        "lon": 5.78722
+    },
+    {
+        "id": "SEM:MUS",
+        "code": "SEM:GENMUS",
+        "city": "Meylan",
+        "name": "Maison de la Musique",
+        "visible": true,
+        "lat": 45.20959,
+        "lon": 5.78135
+    },
+    {
+        "id": "SEM:MEYLMAIR",
+        "code": "SEM:GENMEYLMAIR",
+        "city": "Meylan",
+        "name": "Meylan Mairie",
+        "visible": true,
+        "lat": 45.20928,
+        "lon": 5.7785
+    },
+    {
+        "id": "SEM:BUC1",
+        "code": "SEM:GENBUC1",
+        "city": "Meylan",
+        "name": "Buclos",
+        "visible": true,
+        "lat": 45.20618,
+        "lon": 5.77188
+    },
+    {
+        "id": "SEM:REV",
+        "code": "SEM:GENREV",
+        "city": "Meylan",
+        "name": "La Revirée",
+        "visible": true,
+        "lat": 45.20773,
+        "lon": 5.76854
+    },
+    {
+        "id": "SEM:AIGUIHEX",
+        "code": "SEM:GENAIGUIHEX",
+        "city": "Meylan",
+        "name": "Aiguinards-Hexagone",
+        "visible": true,
+        "lat": 45.20556,
+        "lon": 5.76449
+    },
+    {
+        "id": "SEM:PLAINEFL",
+        "code": "SEM:GENPLAINEFL",
+        "city": "Meylan",
+        "name": "Plaine Fleurie",
+        "visible": true,
+        "lat": 45.20276,
+        "lon": 5.76139
+    },
+    {
+        "id": "SEM:CARONRIE",
+        "code": "SEM:GENCARONRIE",
+        "city": "La Tronche",
+        "name": "Carronnerie - Ile d'Amour",
+        "visible": true,
+        "lat": 45.20116,
+        "lon": 5.7588
+    },
+    {
+        "id": "SEM:SABLONS",
+        "code": "SEM:GENSABLONS",
+        "city": "La Tronche",
+        "name": "Sablons",
+        "visible": true,
+        "lat": 45.19647,
+        "lon": 5.75206
+    },
+    {
+        "id": "SEM:GREHOTEL",
+        "code": "SEM:GENGREHOTEL",
+        "city": "Grenoble",
+        "name": "Grenoble Hôtel de Ville",
+        "visible": true,
+        "lat": 45.18746,
+        "lon": 5.73779
+    },
+    {
+        "id": "SEM:CHAVANT",
+        "code": "SEM:GENCHAVANT",
+        "city": "Grenoble",
+        "name": "Chavant",
+        "visible": true,
+        "lat": 45.18466,
+        "lon": 5.73177
+    },
+    {
+        "id": "SEM:DRMARTIN",
+        "code": "SEM:GENDRMARTIN",
+        "city": "Grenoble",
+        "name": "Docteur Martin",
+        "visible": true,
+        "lat": 45.18731,
+        "lon": 5.72728
+    },
+    {
+        "id": "SEM:VICTHUGO",
+        "code": "SEM:GENVICTHUGO",
+        "city": "Grenoble",
+        "name": "Victor Hugo",
+        "visible": true,
+        "lat": 45.18938,
+        "lon": 5.72499
+    },
+    {
+        "id": "SEM:DRMAZET",
+        "code": "SEM:GENDRMAZET",
+        "city": "Grenoble",
+        "name": "Docteur Mazet",
+        "visible": true,
+        "lat": 45.19128,
+        "lon": 5.72201
+    },
+    {
+        "id": "SEM:FELIXVIA",
+        "code": "SEM:GENFELIXVIA",
+        "city": "Grenoble",
+        "name": "Félix Viallet",
+        "visible": true,
+        "lat": 45.19073,
+        "lon": 5.71847
+    },
+    {
+        "id": "SEM:GARES",
+        "code": "SEM:GENGARES",
+        "city": "Grenoble",
+        "name": "Gares",
+        "visible": true,
+        "lat": 45.19078,
+        "lon": 5.71554
+    },
+    {
+        "id": "SEM:ARAGO",
+        "code": "SEM:GENARAGO",
+        "city": "Grenoble",
+        "name": "Arago",
+        "visible": true,
+        "lat": 45.19709,
+        "lon": 5.71174
+    },
+    {
+        "id": "SEM:CITEMACE",
+        "code": "SEM:GENCITEMACE",
+        "city": "Grenoble",
+        "name": "Cité Jean Macé",
+        "visible": true,
+        "lat": 45.19996,
+        "lon": 5.7105
+    },
+    {
+        "id": "SEM:LMICHEL",
+        "code": "SEM:GENLMICHEL",
+        "city": "Grenoble",
+        "name": "Louise Michel",
+        "visible": true,
+        "lat": 45.16976,
+        "lon": 5.71287
+    },
+    {
+        "id": "SEM:STADLESD",
+        "code": "SEM:GENSTADLESD",
+        "city": "Grenoble",
+        "name": "Stade Lesdiguières",
+        "visible": true,
+        "lat": 45.16429,
+        "lon": 5.71097
+    },
+    {
+        "id": "SEM:RONDEAU",
+        "code": "SEM:GENRONDEAU",
+        "city": "Grenoble",
+        "name": "Marielle Franco - Technisud",
+        "visible": true,
+        "lat": 45.16072,
+        "lon": 5.70965
+    },
+    {
+        "id": "SEM:NAVIS",
+        "code": "SEM:GENNAVIS",
+        "city": "Échirolles",
+        "name": "Navis",
+        "visible": true,
+        "lat": 45.15627,
+        "lon": 5.70842
+    },
+    {
+        "id": "SEM:QUINZAIN",
+        "code": "SEM:GENQUINZAIN",
+        "city": "Échirolles",
+        "name": "Quinzaine",
+        "visible": true,
+        "lat": 45.15149,
+        "lon": 5.70664
+    },
+    {
+        "id": "SEM:BAYARD",
+        "code": "SEM:GENBAYARD",
+        "city": "Échirolles",
+        "name": "Bayard",
+        "visible": true,
+        "lat": 45.14591,
+        "lon": 5.70478
+    },
+    {
+        "id": "SEM:ECUREUIL",
+        "code": "SEM:GENECUREUIL",
+        "city": "Échirolles",
+        "name": "Ecureuil",
+        "visible": true,
+        "lat": 45.14261,
+        "lon": 5.70384
+    },
+    {
+        "id": "SEM:LETOILE",
+        "code": "SEM:GENLETOILE",
+        "city": "Le Pont-de-Claix",
+        "name": "L'Étoile",
+        "visible": true,
+        "lat": 45.13788,
+        "lon": 5.7033
+    },
+    {
+        "id": "SEM:CLOSDOMI",
+        "code": "SEM:GENCLOSDOMI",
+        "city": "Le Pont-de-Claix",
+        "name": "Clos Dominique",
+        "visible": true,
+        "lat": 45.13546,
+        "lon": 5.70127
+    },
+    {
+        "id": "SEM:ILESMARS",
+        "code": "SEM:GENILESMARS",
+        "city": "Le Pont-de-Claix",
+        "name": "Iles de Mars",
+        "visible": true,
+        "lat": 45.13197,
+        "lon": 5.70026
+    },
+    {
+        "id": "SEM:LAMPHI",
+        "code": "SEM:GENLAMPHI",
+        "city": "Le Pont-de-Claix",
+        "name": "L'Amphi",
+        "visible": true,
+        "lat": 45.13035,
+        "lon": 5.69975
+    },
+    {
+        "id": "SEM:IRENEJOL",
+        "code": "SEM:GENIRENEJOL",
+        "city": "Le Pont-de-Claix",
+        "name": "Irène Joliot-Curie",
+        "visible": true,
+        "lat": 45.12742,
+        "lon": 5.69856
+    },
+    {
+        "id": "SEM:MARCELLI",
+        "code": "SEM:GENMARCELLI",
+        "city": "Le Pont-de-Claix",
+        "name": "Marcelline",
+        "visible": true,
+        "lat": 45.12553,
+        "lon": 5.69795
+    },
+    {
+        "id": "SEM:PCM",
+        "code": "SEM:GENPCM",
+        "city": "Le Pont-de-Claix",
+        "name": "Le Pont-de-Claix Mairie",
+        "visible": true,
+        "lat": 45.12345,
+        "lon": 5.69775
+    },
+    {
+        "id": "SEM:PTROUGE",
+        "code": "SEM:GENPTROUGE",
+        "city": "Claix",
+        "name": "Pont Rouge",
+        "visible": true,
+        "lat": 45.11832,
+        "lon": 5.69254
+    },
+    {
+        "id": "SEM:CHRISTUR",
+        "code": "SEM:GENCHRISTUR",
+        "city": "Grenoble",
+        "name": "Christophe Turc",
+        "visible": true,
+        "lat": 45.16137,
+        "lon": 5.72414
+    },
+    {
+        "id": "SEM:VILLOLYM",
+        "code": "SEM:GENVILLOLYM",
+        "city": "Grenoble",
+        "name": "Village Olympique",
+        "visible": true,
+        "lat": 45.16411,
+        "lon": 5.72404
+    },
+    {
+        "id": "SEM:GRAPH",
+        "code": "SEM:GENGRAPH",
+        "city": "Échirolles",
+        "name": "Centre du graphisme",
+        "visible": true,
+        "lat": 45.14185,
+        "lon": 5.71816
+    },
+    {
+        "id": "SEM:VILLAGE",
+        "code": "SEM:GENVILLAGE",
+        "city": "Échirolles",
+        "name": "Le Village",
+        "visible": true,
+        "lat": 45.14133,
+        "lon": 5.72057
+    },
+    {
+        "id": "SEM:LANGEVIN",
+        "code": "SEM:GENLANGEVIN",
+        "city": "Échirolles",
+        "name": "Paul Langevin",
+        "visible": true,
+        "lat": 45.14346,
+        "lon": 5.72313
+    },
+    {
+        "id": "SEM:GUYMOCQU",
+        "code": "SEM:GENGUYMOCQU",
+        "city": "Échirolles",
+        "name": "Guy Mocquet",
+        "visible": true,
+        "lat": 45.14548,
+        "lon": 5.72585
+    },
+    {
+        "id": "SEM:CHATEAU",
+        "code": "SEM:GENCHATEAU",
+        "city": "Échirolles",
+        "name": "Le Château",
+        "visible": true,
+        "lat": 45.14732,
+        "lon": 5.72671
+    },
+    {
+        "id": "SEM:ECOLHOSP",
+        "code": "SEM:GENECOLHOSP",
+        "city": "Échirolles",
+        "name": "Ecoles Hospitalières",
+        "visible": true,
+        "lat": 45.14638,
+        "lon": 5.72973
+    },
+    {
+        "id": "SEM:HOPITSUD",
+        "code": "SEM:GENHOPITSUD",
+        "city": "Échirolles",
+        "name": "Hôpital Sud",
+        "visible": true,
+        "lat": 45.1469,
+        "lon": 5.73274
+    },
+    {
+        "id": "SEM:FRQUESNA",
+        "code": "SEM:GENFRQUESNA",
+        "city": "Échirolles",
+        "name": "François Quesnay",
+        "visible": true,
+        "lat": 45.1479,
+        "lon": 5.73517
+    },
+    {
+        "id": "SEM:ALPEXPO",
+        "code": "SEM:GENALPEXPO",
+        "city": "Eybens",
+        "name": "Alpexpo",
+        "visible": true,
+        "lat": 45.15449,
+        "lon": 5.73379
+    },
+    {
+        "id": "SEM:POLESUD",
+        "code": "SEM:GENPOLESUD",
+        "city": "Grenoble",
+        "name": "Polesud - Alpexpo",
+        "visible": true,
+        "lat": 45.15715,
+        "lon": 5.73384
+    },
+    {
+        "id": "SEM:GP",
+        "code": "SEM:GENGP",
+        "city": "Grenoble",
+        "name": "Grand'place",
+        "visible": true,
+        "lat": 45.15922,
+        "lon": 5.73265
+    },
+    {
+        "id": "SEM:EDMOESMO",
+        "code": "SEM:GENEDMOESMO",
+        "city": "Grenoble",
+        "name": "Edmond Esmonin",
+        "visible": true,
+        "lat": 45.15937,
+        "lon": 5.72662
+    },
+    {
+        "id": "SEM:MAISANCI",
+        "code": "SEM:GENMAISANCI",
+        "city": "Grenoble",
+        "name": "Maison des Anciens",
+        "visible": true,
+        "lat": 45.15975,
+        "lon": 5.72325
+    },
+    {
+        "id": "SEM:GRAND",
+        "code": "SEM:GENGRAND",
+        "city": "Grenoble",
+        "name": "Lucien Andrieux",
+        "visible": true,
+        "lat": 45.16435,
+        "lon": 5.72135
+    },
+    {
+        "id": "SEM:VIGNY",
+        "code": "SEM:GENVIGNY",
+        "city": "Grenoble",
+        "name": "Vigny",
+        "visible": true,
+        "lat": 45.16744,
+        "lon": 5.72338
+    },
+    {
+        "id": "SEM:CLOSDOR",
+        "code": "SEM:GENCLOSDOR",
+        "city": "Grenoble",
+        "name": "Clos d'Or",
+        "visible": true,
+        "lat": 45.16955,
+        "lon": 5.72321
+    },
+    {
+        "id": "SEM:EUGENESU",
+        "code": "SEM:GENEUGENESU",
+        "city": "Grenoble",
+        "name": "Eugène Sue",
+        "visible": true,
+        "lat": 45.17284,
+        "lon": 5.72476
+    },
+    {
+        "id": "SEM:CAPUCHE",
+        "code": "SEM:GENCAPUCHE",
+        "city": "Grenoble",
+        "name": "Capuche",
+        "visible": true,
+        "lat": 45.17614,
+        "lon": 5.72539
+    },
+    {
+        "id": "SEM:FOCHFERI",
+        "code": "SEM:GENFOCHFERI",
+        "city": "Grenoble",
+        "name": "Foch - Ferrié",
+        "visible": true,
+        "lat": 45.1808,
+        "lon": 5.72256
+    },
+    {
+        "id": "SEM:MARCEAU",
+        "code": "SEM:GENMARCEAU",
+        "city": "Grenoble",
+        "name": "Marceau - Jardin des Vallons",
+        "visible": true,
+        "lat": 45.18245,
+        "lon": 5.72217
+    },
+    {
+        "id": "SEM:CHAMPION",
+        "code": "SEM:GENCHAMPION",
+        "city": "Grenoble",
+        "name": "Championnet",
+        "visible": true,
+        "lat": 45.18554,
+        "lon": 5.72318
+    },
+    {
+        "id": "SEM:VICTHUGO",
+        "code": "SEM:GENVICTHUGO",
+        "city": "Grenoble",
+        "name": "Victor Hugo",
+        "visible": true,
+        "lat": 45.18938,
+        "lon": 5.72499
+    },
+    {
+        "id": "SEM:VICTHUGO",
+        "code": "SEM:GENVICTHUGO",
+        "city": "Grenoble",
+        "name": "Victor Hugo",
+        "visible": true,
+        "lat": 45.18938,
+        "lon": 5.72499
+    },
+    {
+        "id": "SEM:DRMARTIN",
+        "code": "SEM:GENDRMARTIN",
+        "city": "Grenoble",
+        "name": "Docteur Martin",
+        "visible": true,
+        "lat": 45.18731,
+        "lon": 5.72728
+    },
+    {
+        "id": "SEM:CHAVANT",
+        "code": "SEM:GENCHAVANT",
+        "city": "Grenoble",
+        "name": "Chavant",
+        "visible": true,
+        "lat": 45.18466,
+        "lon": 5.73177
+    },
+    {
+        "id": "SEM:DRIANT",
+        "code": "SEM:GENDRIANT",
+        "city": "Grenoble",
+        "name": "Driant",
+        "visible": true,
+        "lat": 45.18228,
+        "lon": 5.7341
+    },
+    {
+        "id": "SEM:MALLIFAU",
+        "code": "SEM:GENMALLIFAU",
+        "city": "Grenoble",
+        "name": "Mallifaud",
+        "visible": true,
+        "lat": 45.18033,
+        "lon": 5.73507
+    },
+    {
+        "id": "SEM:BAJATIER",
+        "code": "SEM:GENBAJATIER",
+        "city": "Grenoble",
+        "name": "Bajatière",
+        "visible": true,
+        "lat": 45.17813,
+        "lon": 5.73614
+    },
+    {
+        "id": "SEM:PONSARD",
+        "code": "SEM:GENPONSARD",
+        "city": "Grenoble",
+        "name": "Ponsard",
+        "visible": true,
+        "lat": 45.17597,
+        "lon": 5.7372
+    },
+    {
+        "id": "SEM:PCLAUDEL",
+        "code": "SEM:GENPCLAUDEL",
+        "city": "Grenoble",
+        "name": "Paul Claudel",
+        "visible": true,
+        "lat": 45.17336,
+        "lon": 5.73851
+    },
+    {
+        "id": "SEM:TEISSEIR",
+        "code": "SEM:GENTEISSEIR",
+        "city": "Grenoble",
+        "name": "Teisseire",
+        "visible": true,
+        "lat": 45.17081,
+        "lon": 5.74016
+    },
+    {
+        "id": "SEM:JRACINE",
+        "code": "SEM:GENJRACINE",
+        "city": "Grenoble",
+        "name": "Jean Racine",
+        "visible": true,
+        "lat": 45.16682,
+        "lon": 5.74175
+    },
+    {
+        "id": "SEM:MAISNEUV",
+        "code": "SEM:GENMAISNEUV",
+        "city": "Eybens",
+        "name": "Maisons Neuves",
+        "visible": true,
+        "lat": 45.16491,
+        "lon": 5.74252
+    },
+    {
+        "id": "SEM:DEGAULLE",
+        "code": "SEM:GENDEGAULLE",
+        "city": "Eybens",
+        "name": "Général de Gaulle",
+        "visible": true,
+        "lat": 45.16163,
+        "lon": 5.74447
+    },
+    {
+        "id": "SEM:VALEYBEN",
+        "code": "SEM:GENVALEYBEN",
+        "city": "Eybens",
+        "name": "Val d'Eybens",
+        "visible": true,
+        "lat": 45.15905,
+        "lon": 5.74558
+    },
+    {
+        "id": "SEM:ODYSSEE",
+        "code": "SEM:GENODYSSEE",
+        "city": "Eybens",
+        "name": "Odyssée",
+        "visible": true,
+        "lat": 45.15273,
+        "lon": 5.74876
+    },
+    {
+        "id": "SEM:JAVAUX",
+        "code": "SEM:GENJAVAUX",
+        "city": "Eybens",
+        "name": "Les Javaux",
+        "visible": true,
+        "lat": 45.15034,
+        "lon": 5.7499
+    },
+    {
+        "id": "SEM:LEBOURG",
+        "code": "SEM:GENLEBOURG",
+        "city": "Eybens",
+        "name": "Le Bourg",
+        "visible": true,
+        "lat": 45.14781,
+        "lon": 5.75116
+    },
+    {
+        "id": "SEM:VERDERET",
+        "code": "SEM:GENVERDERET",
+        "city": "Eybens",
+        "name": "Le Verderet",
+        "visible": true,
+        "lat": 45.14694,
+        "lon": 5.75428
+    },
+    {
+        "id": "SEM:LYSROUGE",
+        "code": "SEM:GENLYSROUGE",
+        "city": "Grenoble",
+        "name": "Lys Rouge",
+        "visible": true,
+        "lat": 45.17304,
+        "lon": 5.71057
+    },
+    {
+        "id": "SEM:BIOLOGIE",
+        "code": "SEM:GENBIOLOGIE",
+        "city": "Gières",
+        "name": "Université - Biologie",
+        "visible": true,
+        "lat": 45.19195,
+        "lon": 5.77474
+    },
+    {
+        "id": "SEM:BIBLIUNI",
+        "code": "SEM:GENBIBLIUNI",
+        "city": "Gières",
+        "name": "Université - Bibliothèques",
+        "visible": true,
+        "lat": 45.19246,
+        "lon": 5.7709
+    },
+    {
+        "id": "SEM:PROMOSOC",
+        "code": "SEM:GENPROMOSOC",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Les Alpilles",
+        "visible": true,
+        "lat": 45.18714,
+        "lon": 5.76958
+    },
+    {
+        "id": "SEM:CHAMPROM",
+        "code": "SEM:GENCHAMPROM",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Champ Roman",
+        "visible": true,
+        "lat": 45.18438,
+        "lon": 5.76824
+    },
+    {
+        "id": "SEM:CLINBELD",
+        "code": "SEM:GENCLINBELD",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Clinique Belledonne",
+        "visible": true,
+        "lat": 45.18598,
+        "lon": 5.76095
+    },
+    {
+        "id": "SEM:NEYRBELL",
+        "code": "SEM:GENNEYRBELL",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Neyrpic - Belledonne",
+        "visible": true,
+        "lat": 45.18669,
+        "lon": 5.75716
+    },
+    {
+        "id": "SEM:PIERSEMA",
+        "code": "SEM:GENPIERSEMA",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Pierre Sémard",
+        "visible": true,
+        "lat": 45.18128,
+        "lon": 5.75712
+    },
+    {
+        "id": "SEM:EDVAILLA",
+        "code": "SEM:GENEDVAILLA",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Edouard Vaillant",
+        "visible": true,
+        "lat": 45.17902,
+        "lon": 5.75528
+    },
+    {
+        "id": "SEM:BONPASTE",
+        "code": "SEM:GENBONPASTE",
+        "city": "Grenoble",
+        "name": "Bon Pasteur",
+        "visible": true,
+        "lat": 45.17875,
+        "lon": 5.7509
+    },
+    {
+        "id": "SEM:STAUGUST",
+        "code": "SEM:GENSTAUGUST",
+        "city": "Grenoble",
+        "name": "Saint-Augustin",
+        "visible": true,
+        "lat": 45.17827,
+        "lon": 5.74591
+    },
+    {
+        "id": "SEM:ARGOUGES",
+        "code": "SEM:GENARGOUGES",
+        "city": "Grenoble",
+        "name": "André Argouges",
+        "visible": true,
+        "lat": 45.17537,
+        "lon": 5.74447
+    },
+    {
+        "id": "SEM:PAULCOCA",
+        "code": "SEM:GENPAULCOCA",
+        "city": "Grenoble",
+        "name": "Paul Cocat",
+        "visible": true,
+        "lat": 45.17226,
+        "lon": 5.74478
+    },
+    {
+        "id": "SEM:TEISSEIR",
+        "code": "SEM:GENTEISSEIR",
+        "city": "Grenoble",
+        "name": "Teisseire",
+        "visible": true,
+        "lat": 45.17081,
+        "lon": 5.74016
+    },
+    {
+        "id": "SEM:LOUISJOU",
+        "code": "SEM:GENLOUISJOU",
+        "city": "Grenoble",
+        "name": "Louis Jouvet",
+        "visible": true,
+        "lat": 45.16999,
+        "lon": 5.73712
+    },
+    {
+        "id": "SEM:MALHERBE",
+        "code": "SEM:GENMALHERBE",
+        "city": "Grenoble",
+        "name": "Malherbe",
+        "visible": true,
+        "lat": 45.16928,
+        "lon": 5.73229
+    },
+    {
+        "id": "SEM:FLAUCLOS",
+        "code": "SEM:GENFLAUCLOS",
+        "city": "Grenoble",
+        "name": "Flaubert - Clos d'Or",
+        "visible": true,
+        "lat": 45.17049,
+        "lon": 5.72791
+    },
+    {
+        "id": "SEM:STALALLI",
+        "code": "SEM:GENSTALALLI",
+        "city": "Grenoble",
+        "name": "Stalingrad-Alliés",
+        "visible": true,
+        "lat": 45.17172,
+        "lon": 5.72435
+    },
+    {
+        "id": "SEM:MAINNATI",
+        "code": "SEM:GENMAINNATI",
+        "city": "Grenoble",
+        "name": "Marché d'Intérêt National",
+        "visible": true,
+        "lat": 45.17354,
+        "lon": 5.71805
+    },
+    {
+        "id": "SEM:ALLIES",
+        "code": "SEM:GENALLIES",
+        "city": "Grenoble",
+        "name": "Alliés",
+        "visible": true,
+        "lat": 45.17398,
+        "lon": 5.71427
+    },
+    {
+        "id": "SEM:HDUNANT",
+        "code": "SEM:GENHDUNANT",
+        "city": "Grenoble",
+        "name": "Henri Dunant",
+        "visible": true,
+        "lat": 45.17441,
+        "lon": 5.7083
+    },
+    {
+        "id": "SEM:DRSCHWEI",
+        "code": "SEM:GENDRSCHWEI",
+        "city": "Grenoble",
+        "name": "Docteur Schweitzer",
+        "visible": true,
+        "lat": 45.17245,
+        "lon": 5.70632
+    },
+    {
+        "id": "SEM:RHINDANU",
+        "code": "SEM:GENRHINDANU",
+        "city": "Grenoble",
+        "name": "Rosa Parks",
+        "visible": true,
+        "lat": 45.17497,
+        "lon": 5.70522
+    },
+    {
+        "id": "SEM:VALLCATA",
+        "code": "SEM:GENVALLCATA",
+        "city": "Grenoble",
+        "name": "Vallier - Catane",
+        "visible": true,
+        "lat": 45.18002,
+        "lon": 5.70558
+    },
+    {
+        "id": "SEM:CEMOI",
+        "code": "SEM:GENCEMOI",
+        "city": "Grenoble",
+        "name": "Cémoi",
+        "visible": true,
+        "lat": 45.18495,
+        "lon": 5.70573
+    },
+    {
+        "id": "SEM:BER",
+        "code": "SEM:GENBER",
+        "city": "Grenoble",
+        "name": "Berriat - Le Magasin",
+        "visible": true,
+        "lat": 45.18849,
+        "lon": 5.7058
+    },
+    {
+        "id": "SEM:ESCLANGO",
+        "code": "SEM:GENESCLANGO",
+        "city": "Grenoble",
+        "name": "Esclangon",
+        "visible": true,
+        "lat": 45.19158,
+        "lon": 5.7065
+    },
+    {
+        "id": "SEM:PALJUSTI",
+        "code": "SEM:GENPALJUSTI",
+        "city": "Grenoble",
+        "name": "Palais de Justice - Gare",
+        "visible": true,
+        "lat": 45.19164,
+        "lon": 5.71086
+    },
+    {
+        "id": "SEM:OXF",
+        "code": "SEM:GENOXF",
+        "city": "Grenoble",
+        "name": "Oxford",
+        "visible": true,
+        "lat": 45.20481,
+        "lon": 5.70122
+    },
+    {
+        "id": "SEM:MARESIST",
+        "code": "SEM:GENMARESIST",
+        "city": "Grenoble",
+        "name": "Martyrs - Résistance",
+        "visible": true,
+        "lat": 45.2081,
+        "lon": 5.69661
+    },
+    {
+        "id": "SEM:CHAMECHA",
+        "code": "SEM:GENCHAMECHA",
+        "city": "Sassenage",
+        "name": "Chamechaude",
+        "visible": true,
+        "lat": 45.2051,
+        "lon": 5.68348
+    },
+    {
+        "id": "SEM:LASURE",
+        "code": "SEM:GENLASURE",
+        "city": "Fontaine",
+        "name": "La Sure",
+        "visible": true,
+        "lat": 45.20279,
+        "lon": 5.68586
+    },
+    {
+        "id": "SEM:STEYNARD",
+        "code": "SEM:GENSTEYNARD",
+        "city": "Fontaine",
+        "name": "Saint-Eynard",
+        "visible": true,
+        "lat": 45.20113,
+        "lon": 5.69021
+    },
+    {
+        "id": "SEM:CHARMETT",
+        "code": "SEM:GENCHARMETT",
+        "city": "Fontaine",
+        "name": "Charmettes",
+        "visible": true,
+        "lat": 45.1974,
+        "lon": 5.69355
+    },
+    {
+        "id": "SEM:RUEPASTE",
+        "code": "SEM:GENRUEPASTE",
+        "city": "Fontaine",
+        "name": "Rue Pasteur",
+        "visible": true,
+        "lat": 45.19421,
+        "lon": 5.69473
+    },
+    {
+        "id": "SEM:CURIVERC",
+        "code": "SEM:GENCURIVERC",
+        "city": "Fontaine",
+        "name": "Curie - Vercors",
+        "visible": true,
+        "lat": 45.19188,
+        "lon": 5.69505
+    },
+    {
+        "id": "SEM:MAISONNA",
+        "code": "SEM:GENMAISONNA",
+        "city": "Fontaine",
+        "name": "Louis Maisonnat",
+        "visible": true,
+        "lat": 45.18912,
+        "lon": 5.69409
+    },
+    {
+        "id": "SEM:ARBERGES",
+        "code": "SEM:GENARBERGES",
+        "city": "Seyssinet-Pariset",
+        "name": "Aristide Bergès",
+        "visible": true,
+        "lat": 45.18551,
+        "lon": 5.69465
+    },
+    {
+        "id": "SEM:LESILES",
+        "code": "SEM:GENLESILES",
+        "city": "Seyssinet-Pariset",
+        "name": "Les Iles",
+        "visible": true,
+        "lat": 45.1841,
+        "lon": 5.69716
+    },
+    {
+        "id": "SEM:SEYHDV",
+        "code": "SEM:GENSEYHDV",
+        "city": "Seyssinet-Pariset",
+        "name": "Seyssinet-Pariset Hôtel de Ville",
+        "visible": true,
+        "lat": 45.18032,
+        "lon": 5.69707
+    },
+    {
+        "id": "SEM:CENTRSOC",
+        "code": "SEM:GENCENTRSOC",
+        "city": "Seyssinet-Pariset",
+        "name": "L'Arche",
+        "visible": true,
+        "lat": 45.17817,
+        "lon": 5.69702
+    },
+    {
+        "id": "SEM:BEAUSITE",
+        "code": "SEM:GENBEAUSITE",
+        "city": "Seyssinet-Pariset",
+        "name": "Beau Site",
+        "visible": true,
+        "lat": 45.17591,
+        "lon": 5.69696
+    },
+    {
+        "id": "SEM:LAPLAINE",
+        "code": "SEM:GENLAPLAINE",
+        "city": "Seyssinet-Pariset",
+        "name": "La Plaine",
+        "visible": true,
+        "lat": 45.1726,
+        "lon": 5.69689
+    },
+    {
+        "id": "SEM:CENTRESU",
+        "code": "SEM:GENCENTRESU",
+        "city": "Seyssins",
+        "name": "Grand Pré - Centre Sud",
+        "visible": true,
+        "lat": 45.17084,
+        "lon": 5.69457
+    },
+    {
+        "id": "SEM:TUILERIE",
+        "code": "SEM:GENTUILERIE",
+        "city": "Seyssins",
+        "name": "Tuilerie",
+        "visible": true,
+        "lat": 45.16906,
+        "lon": 5.69215
+    },
+    {
+        "id": "SEM:PRISME",
+        "code": "SEM:GENPRISME",
+        "city": "Seyssins",
+        "name": "Le Prisme",
+        "visible": true,
+        "lat": 45.16639,
+        "lon": 5.69055
+    },
+    {
+        "id": "SEM:SEYSROND",
+        "code": "SEM:GENSEYSROND",
+        "city": "Seyssins",
+        "name": "Louis Vicat",
+        "visible": true,
+        "lat": 45.16035,
+        "lon": 5.69373
+    },
+    {
+        "id": "SEM:SEYRON",
+        "code": "SEM:GENSEYRON",
+        "city": "Grenoble",
+        "name": "Rondeau",
+        "visible": true,
+        "lat": 45.15871,
+        "lon": 5.70584
+    },
+    {
+        "id": "SEM:RONDEAU",
+        "code": "SEM:GENRONDEAU",
+        "city": "Grenoble",
+        "name": "Marielle Franco - Technisud",
+        "visible": true,
+        "lat": 45.16072,
+        "lon": 5.70965
+    },
+    {
+        "id": "SEM:STADLESD",
+        "code": "SEM:GENSTADLESD",
+        "city": "Grenoble",
+        "name": "Stade Lesdiguières",
+        "visible": true,
+        "lat": 45.16429,
+        "lon": 5.71097
+    },
+    {
+        "id": "SEM:VERLAINE",
+        "code": "SEM:GENVERLAINE",
+        "city": "Grenoble",
+        "name": "Verlaine",
+        "visible": true,
+        "lat": 45.16193,
+        "lon": 5.71613
+    },
+    {
+        "id": "SEM:MAISANCI",
+        "code": "SEM:GENMAISANCI",
+        "city": "Grenoble",
+        "name": "Maison des Anciens",
+        "visible": true,
+        "lat": 45.15975,
+        "lon": 5.72325
+    },
+    {
+        "id": "SEM:EDMOESMO",
+        "code": "SEM:GENEDMOESMO",
+        "city": "Grenoble",
+        "name": "Edmond Esmonin",
+        "visible": true,
+        "lat": 45.15937,
+        "lon": 5.72662
+    },
+    {
+        "id": "SEM:GP",
+        "code": "SEM:GENGP",
+        "city": "Grenoble",
+        "name": "Grand'place",
+        "visible": true,
+        "lat": 45.15922,
+        "lon": 5.73265
+    },
+    {
+        "id": "SEM:RAYCHANA",
+        "code": "SEM:GENRAYCHANA",
+        "city": "Grenoble",
+        "name": "Raymond Chanas",
+        "visible": true,
+        "lat": 45.15968,
+        "lon": 5.73822
+    },
+    {
+        "id": "SEM:PLGEANTS",
+        "code": "SEM:GENPLGEANTS",
+        "city": "Grenoble",
+        "name": "Les Géants",
+        "visible": true,
+        "lat": 45.16115,
+        "lon": 5.73994
+    },
+    {
+        "id": "SEM:SAULES",
+        "code": "SEM:GENSAULES",
+        "city": "Eybens",
+        "name": "Les Saules",
+        "visible": true,
+        "lat": 45.16188,
+        "lon": 5.74176
+    },
+    {
+        "id": "SEM:MAISNEUV",
+        "code": "SEM:GENMAISNEUV",
+        "city": "Eybens",
+        "name": "Maisons Neuves",
+        "visible": true,
+        "lat": 45.16491,
+        "lon": 5.74252
+    },
+    {
+        "id": "SEM:COM",
+        "code": "SEM:GENCOM",
+        "city": "Seyssins",
+        "name": "Comboire",
+        "visible": true,
+        "lat": 45.14597,
+        "lon": 5.69073
+    },
+    {
+        "id": "SEM:DRAC2",
+        "code": "SEM:GENDRAC2",
+        "city": "Échirolles",
+        "name": "Drac",
+        "visible": true,
+        "lat": 45.14895,
+        "lon": 5.69397
+    },
+    {
+        "id": "SEM:MUSGEOCH",
+        "code": "SEM:GENMUSGEOCH",
+        "city": "Échirolles",
+        "name": "Musée Géo Charles",
+        "visible": true,
+        "lat": 45.14878,
+        "lon": 5.70172
+    },
+    {
+        "id": "SEM:COLMANHE",
+        "code": "SEM:GENCOLMANHE",
+        "city": "Échirolles",
+        "name": "Colonel Manhès",
+        "visible": true,
+        "lat": 45.14647,
+        "lon": 5.70177
+    },
+    {
+        "id": "SEM:BAYARD",
+        "code": "SEM:GENBAYARD",
+        "city": "Échirolles",
+        "name": "Bayard",
+        "visible": true,
+        "lat": 45.14591,
+        "lon": 5.70478
+    },
+    {
+        "id": "SEM:QUINZAIN",
+        "code": "SEM:GENQUINZAIN",
+        "city": "Échirolles",
+        "name": "Quinzaine",
+        "visible": true,
+        "lat": 45.15149,
+        "lon": 5.70664
+    },
+    {
+        "id": "SEM:GRUGLIAS",
+        "code": "SEM:GENGRUGLIAS",
+        "city": "Échirolles",
+        "name": "Grugliasco",
+        "visible": true,
+        "lat": 45.15127,
+        "lon": 5.70946
+    },
+    {
+        "id": "SEM:PELLOUTI",
+        "code": "SEM:GENPELLOUTI",
+        "city": "Échirolles",
+        "name": "Fernand Pelloutier",
+        "visible": true,
+        "lat": 45.15084,
+        "lon": 5.71482
+    },
+    {
+        "id": "SEM:RAMPE",
+        "code": "SEM:GENRAMPE",
+        "city": "Échirolles",
+        "name": "La Rampe - Centre-Ville",
+        "visible": true,
+        "lat": 45.14948,
+        "lon": 5.71818
+    },
+    {
+        "id": "SEM:POLOTTI",
+        "code": "SEM:GENPOLOTTI",
+        "city": "Échirolles",
+        "name": "Antoine Polotti",
+        "visible": true,
+        "lat": 45.1486,
+        "lon": 5.72251
+    },
+    {
+        "id": "SEM:CHATEAU",
+        "code": "SEM:GENCHATEAU",
+        "city": "Échirolles",
+        "name": "Le Château",
+        "visible": true,
+        "lat": 45.14732,
+        "lon": 5.72671
+    },
+    {
+        "id": "SEM:ECOLHOSP",
+        "code": "SEM:GENECOLHOSP",
+        "city": "Échirolles",
+        "name": "Ecoles Hospitalières",
+        "visible": true,
+        "lat": 45.14638,
+        "lon": 5.72973
+    },
+    {
+        "id": "SEM:HOPITSUD",
+        "code": "SEM:GENHOPITSUD",
+        "city": "Échirolles",
+        "name": "Hôpital Sud",
+        "visible": true,
+        "lat": 45.1469,
+        "lon": 5.73274
+    },
+    {
+        "id": "SEM:FRQUESNA",
+        "code": "SEM:GENFRQUESNA",
+        "city": "Échirolles",
+        "name": "François Quesnay",
+        "visible": true,
+        "lat": 45.1479,
+        "lon": 5.73517
+    },
+    {
+        "id": "SEM:RUIRES",
+        "code": "SEM:GENRUIRES",
+        "city": "Eybens",
+        "name": "Les Ruires-Boétie",
+        "visible": true,
+        "lat": 45.14932,
+        "lon": 5.74122
+    },
+    {
+        "id": "SEM:ODYSSEE",
+        "code": "SEM:GENODYSSEE",
+        "city": "Eybens",
+        "name": "Odyssée",
+        "visible": true,
+        "lat": 45.15273,
+        "lon": 5.74876
+    },
+    {
+        "id": "SEM:CHAMPFIL",
+        "code": "SEM:GENCHAMPFIL",
+        "city": "Eybens",
+        "name": "Champ Fila",
+        "visible": true,
+        "lat": 45.15627,
+        "lon": 5.75505
+    },
+    {
+        "id": "SEM:CENSOCIO",
+        "code": "SEM:GENCENSOCIO",
+        "city": "Poisat",
+        "name": "Centre Socio-Culturel",
+        "visible": true,
+        "lat": 45.15886,
+        "lon": 5.75948
+    },
+    {
+        "id": "SEM:CARINA",
+        "code": "SEM:GENCARINA",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Le Carina",
+        "visible": true,
+        "lat": 45.16238,
+        "lon": 5.76305
+    },
+    {
+        "id": "SEM:SMHVILLA",
+        "code": "SEM:GENSMHVILLA",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Saint-Martin-d'Hères Village",
+        "visible": true,
+        "lat": 45.16512,
+        "lon": 5.76552
+    },
+    {
+        "id": "SEM:CXPATRE",
+        "code": "SEM:GENCXPATRE",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Croix du Pâtre",
+        "visible": true,
+        "lat": 45.16821,
+        "lon": 5.76174
+    },
+    {
+        "id": "SEM:POTIE",
+        "code": "SEM:GENPOTIE",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Potié",
+        "visible": true,
+        "lat": 45.17088,
+        "lon": 5.75859
+    },
+    {
+        "id": "SEM:ETIEGRAP",
+        "code": "SEM:GENETIEGRAP",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Etienne Grappe",
+        "visible": true,
+        "lat": 45.17213,
+        "lon": 5.75769
+    },
+    {
+        "id": "SEM:PABLONER",
+        "code": "SEM:GENPABLONER",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Pablo Neruda",
+        "visible": false,
+        "lat": 45.17395,
+        "lon": 5.76074
+    },
+    {
+        "id": "SEM:HENRIWAL",
+        "code": "SEM:GENHENRIWAL",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Henri Wallon",
+        "visible": true,
+        "lat": 45.17563,
+        "lon": 5.76392
+    },
+    {
+        "id": "SEM:ABBEGREG",
+        "code": "SEM:GENABBEGREG",
+        "city": "Grenoble",
+        "name": "Abbé Grégoire",
+        "visible": true,
+        "lat": 45.18388,
+        "lon": 5.71174
+    },
+    {
+        "id": "SEM:COLLSAUL",
+        "code": "SEM:GENCOLLSAUL",
+        "city": "Eybens",
+        "name": "Collège des Saules",
+        "visible": true,
+        "lat": 45.16143,
+        "lon": 5.74306
+    },
+    {
+        "id": "SEM:BELGRADE",
+        "code": "SEM:GENBELGRADE",
+        "city": "Grenoble",
+        "name": "Victor Hugo - Belgrade",
+        "visible": true,
+        "lat": 45.19123,
+        "lon": 5.7252
+    },
+    {
+        "id": "SEM:VICTHUGO",
+        "code": "SEM:GENVICTHUGO",
+        "city": "Grenoble",
+        "name": "Victor Hugo",
+        "visible": true,
+        "lat": 45.18938,
+        "lon": 5.72499
+    },
+    {
+        "id": "SEM:DRMARTIN",
+        "code": "SEM:GENDRMARTIN",
+        "city": "Grenoble",
+        "name": "Docteur Martin",
+        "visible": true,
+        "lat": 45.18731,
+        "lon": 5.72728
+    },
+    {
+        "id": "SEM:CHAMPION",
+        "code": "SEM:GENCHAMPION",
+        "city": "Grenoble",
+        "name": "Championnet",
+        "visible": true,
+        "lat": 45.18554,
+        "lon": 5.72318
+    },
+    {
+        "id": "SEM:CONDORCE",
+        "code": "SEM:GENCONDORCE",
+        "city": "Grenoble",
+        "name": "Condorcet",
+        "visible": true,
+        "lat": 45.18553,
+        "lon": 5.71823
+    },
+    {
+        "id": "SEM:CHORCOND",
+        "code": "SEM:GENCHORCOND",
+        "city": "Grenoble",
+        "name": "Estacade",
+        "visible": true,
+        "lat": 45.18593,
+        "lon": 5.71744
+    },
+    {
+        "id": "SEM:STBRUNNC",
+        "code": "SEM:GENSTBRUNNC",
+        "city": "Grenoble",
+        "name": "Chorier - Saint-Bruno",
+        "visible": true,
+        "lat": 45.18592,
+        "lon": 5.71403
+    },
+    {
+        "id": "SEM:ALEMBERT",
+        "code": "SEM:GENALEMBERT",
+        "city": "Grenoble",
+        "name": "D'Alembert",
+        "visible": true,
+        "lat": 45.18422,
+        "lon": 5.71064
+    },
+    {
+        "id": "SEM:CLINMUT",
+        "code": "SEM:GENCLINMUT",
+        "city": "Grenoble",
+        "name": "Groupe Hospitalier Mutualiste",
+        "visible": true,
+        "lat": 45.18126,
+        "lon": 5.71028
+    },
+    {
+        "id": "SEM:VACA",
+        "code": "SEM:GENVACA",
+        "city": "Grenoble",
+        "name": "Vallier - Docteur Calmette",
+        "visible": true,
+        "lat": 45.1805,
+        "lon": 5.71127
+    },
+    {
+        "id": "SEM:CHAMPSEL",
+        "code": "SEM:GENCHAMPSEL",
+        "city": "Grenoble",
+        "name": "Champs-Elysées",
+        "visible": true,
+        "lat": 45.17794,
+        "lon": 5.71025
+    },
+    {
+        "id": "SEM:SALENGRO",
+        "code": "SEM:GENSALENGRO",
+        "city": "Grenoble",
+        "name": "Salengro",
+        "visible": true,
+        "lat": 45.17566,
+        "lon": 5.70887
+    },
+    {
+        "id": "SEM:HDUNANT",
+        "code": "SEM:GENHDUNANT",
+        "city": "Grenoble",
+        "name": "Henri Dunant",
+        "visible": true,
+        "lat": 45.17441,
+        "lon": 5.7083
+    },
+    {
+        "id": "SEM:DRSCHWEI",
+        "code": "SEM:GENDRSCHWEI",
+        "city": "Grenoble",
+        "name": "Docteur Schweitzer",
+        "visible": true,
+        "lat": 45.17245,
+        "lon": 5.70632
+    },
+    {
+        "id": "SEM:ANATFRAN",
+        "code": "SEM:GENANATFRAN",
+        "city": "Grenoble",
+        "name": "Anatole France",
+        "visible": true,
+        "lat": 45.17186,
+        "lon": 5.70495
+    },
+    {
+        "id": "SEM:CITEPMIS",
+        "code": "SEM:GENCITEPMIS",
+        "city": "Grenoble",
+        "name": "Cité Paul Mistral",
+        "visible": true,
+        "lat": 45.16855,
+        "lon": 5.70479
+    },
+    {
+        "id": "SEM:BACHELAR",
+        "code": "SEM:GENBACHELAR",
+        "city": "Grenoble",
+        "name": "Bachelard",
+        "visible": true,
+        "lat": 45.16681,
+        "lon": 5.70594
+    },
+    {
+        "id": "SEM:STADLESD",
+        "code": "SEM:GENSTADLESD",
+        "city": "Grenoble",
+        "name": "Stade Lesdiguières",
+        "visible": true,
+        "lat": 45.16429,
+        "lon": 5.71097
+    },
+    {
+        "id": "SEM:VERLAINE",
+        "code": "SEM:GENVERLAINE",
+        "city": "Grenoble",
+        "name": "Verlaine",
+        "visible": true,
+        "lat": 45.16193,
+        "lon": 5.71613
+    },
+    {
+        "id": "SEM:MAISANCI",
+        "code": "SEM:GENMAISANCI",
+        "city": "Grenoble",
+        "name": "Maison des Anciens",
+        "visible": true,
+        "lat": 45.15975,
+        "lon": 5.72325
+    },
+    {
+        "id": "SEM:EDMOESMO",
+        "code": "SEM:GENEDMOESMO",
+        "city": "Grenoble",
+        "name": "Edmond Esmonin",
+        "visible": true,
+        "lat": 45.15937,
+        "lon": 5.72662
+    },
+    {
+        "id": "SEM:GP",
+        "code": "SEM:GENGP",
+        "city": "Grenoble",
+        "name": "Grand'place",
+        "visible": true,
+        "lat": 45.15922,
+        "lon": 5.73265
+    },
+    {
+        "id": "SEM:RAYCHANA",
+        "code": "SEM:GENRAYCHANA",
+        "city": "Grenoble",
+        "name": "Raymond Chanas",
+        "visible": true,
+        "lat": 45.15968,
+        "lon": 5.73822
+    },
+    {
+        "id": "SEM:DEGAULLE",
+        "code": "SEM:GENDEGAULLE",
+        "city": "Eybens",
+        "name": "Général de Gaulle",
+        "visible": true,
+        "lat": 45.16163,
+        "lon": 5.74447
+    },
+    {
+        "id": "SEM:CHATELIE",
+        "code": "SEM:GENCHATELIE",
+        "city": "Eybens",
+        "name": "La Châtelière",
+        "visible": true,
+        "lat": 45.16217,
+        "lon": 5.74903
+    },
+    {
+        "id": "SEM:LEMARAIS",
+        "code": "SEM:GENLEMARAIS",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Le Marais",
+        "visible": true,
+        "lat": 45.16412,
+        "lon": 5.75044
+    },
+    {
+        "id": "SEM:CHOPIN",
+        "code": "SEM:GENCHOPIN",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Chopin",
+        "visible": true,
+        "lat": 45.16605,
+        "lon": 5.75142
+    },
+    {
+        "id": "SEM:ZELLAMEL",
+        "code": "SEM:GENZELLAMEL",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Zella Mehlis",
+        "visible": true,
+        "lat": 45.16707,
+        "lon": 5.75354
+    },
+    {
+        "id": "SEM:ETIEGRAP",
+        "code": "SEM:GENETIEGRAP",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Etienne Grappe",
+        "visible": true,
+        "lat": 45.17213,
+        "lon": 5.75769
+    },
+    {
+        "id": "SEM:PABLONER",
+        "code": "SEM:GENPABLONER",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Pablo Neruda",
+        "visible": false,
+        "lat": 45.17395,
+        "lon": 5.76074
+    },
+    {
+        "id": "SEM:HENRIWAL",
+        "code": "SEM:GENHENRIWAL",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Henri Wallon",
+        "visible": true,
+        "lat": 45.17563,
+        "lon": 5.76392
+    },
+    {
+        "id": "SEM:ROCHEPLA",
+        "code": "SEM:GENROCHEPLA",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Rocheplane",
+        "visible": true,
+        "lat": 45.1783,
+        "lon": 5.76236
+    },
+    {
+        "id": "SEM:COLI",
+        "code": "SEM:GENCOLI",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Coli",
+        "visible": true,
+        "lat": 45.18073,
+        "lon": 5.76596
+    },
+    {
+        "id": "SEM:CHAMPROM",
+        "code": "SEM:GENCHAMPROM",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Champ Roman",
+        "visible": true,
+        "lat": 45.18438,
+        "lon": 5.76824
+    },
+    {
+        "id": "SEM:PROMOSOC",
+        "code": "SEM:GENPROMOSOC",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Les Alpilles",
+        "visible": true,
+        "lat": 45.18714,
+        "lon": 5.76958
+    },
+    {
+        "id": "SEM:BIBLIUNI",
+        "code": "SEM:GENBIBLIUNI",
+        "city": "Gières",
+        "name": "Université - Bibliothèques",
+        "visible": true,
+        "lat": 45.19246,
+        "lon": 5.7709
+    },
+    {
+        "id": "SEM:BIOLOGIE",
+        "code": "SEM:GENBIOLOGIE",
+        "city": "Gières",
+        "name": "Université - Biologie",
+        "visible": true,
+        "lat": 45.19195,
+        "lon": 5.77474
+    },
+    {
+        "id": "SEM:EPICEA",
+        "code": "SEM:GENEPICEA",
+        "city": "Gières",
+        "name": "Epicéa",
+        "visible": true,
+        "lat": 45.19496,
+        "lon": 5.77481
+    },
+    {
+        "id": "SEM:IUTUFRAP",
+        "code": "SEM:GENIUTUFRAP",
+        "city": "Gières",
+        "name": "Université - IUT-STAPS",
+        "visible": true,
+        "lat": 45.19766,
+        "lon": 5.77588
+    },
+    {
+        "id": "SEM:MARIECUR",
+        "code": "SEM:GENMARIECUR",
+        "city": "Échirolles",
+        "name": "Marie Curie",
+        "visible": true,
+        "lat": 45.14523,
+        "lon": 5.71704
+    },
+    {
+        "id": "SEM:RAMPE",
+        "code": "SEM:GENRAMPE",
+        "city": "Échirolles",
+        "name": "La Rampe - Centre-Ville",
+        "visible": true,
+        "lat": 45.14948,
+        "lon": 5.71818
+    },
+    {
+        "id": "SEM:POLOTTI",
+        "code": "SEM:GENPOLOTTI",
+        "city": "Échirolles",
+        "name": "Antoine Polotti",
+        "visible": true,
+        "lat": 45.1486,
+        "lon": 5.72251
+    },
+    {
+        "id": "SEM:CHATEAU",
+        "code": "SEM:GENCHATEAU",
+        "city": "Échirolles",
+        "name": "Le Château",
+        "visible": true,
+        "lat": 45.14732,
+        "lon": 5.72671
+    },
+    {
+        "id": "SEM:ECOLHOSP",
+        "code": "SEM:GENECOLHOSP",
+        "city": "Échirolles",
+        "name": "Ecoles Hospitalières",
+        "visible": true,
+        "lat": 45.14638,
+        "lon": 5.72973
+    },
+    {
+        "id": "SEM:HOPITSUD",
+        "code": "SEM:GENHOPITSUD",
+        "city": "Échirolles",
+        "name": "Hôpital Sud",
+        "visible": true,
+        "lat": 45.1469,
+        "lon": 5.73274
+    },
+    {
+        "id": "SEM:FRQUESNA",
+        "code": "SEM:GENFRQUESNA",
+        "city": "Échirolles",
+        "name": "François Quesnay",
+        "visible": true,
+        "lat": 45.1479,
+        "lon": 5.73517
+    },
+    {
+        "id": "SEM:PORTGRES",
+        "code": "SEM:GENPORTGRES",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Porte du Grésivaudan",
+        "visible": true,
+        "lat": 45.18253,
+        "lon": 5.77665
+    },
+    {
+        "id": "SEM:CHAMPROM",
+        "code": "SEM:GENCHAMPROM",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Champ Roman",
+        "visible": true,
+        "lat": 45.18438,
+        "lon": 5.76824
+    },
+    {
+        "id": "SEM:PROMOSOC",
+        "code": "SEM:GENPROMOSOC",
+        "city": "Saint-Martin-d'Hères",
+        "name": "Les Alpilles",
+        "visible": true,
+        "lat": 45.18714,
+        "lon": 5.76958
+    },
+    {
+        "id": "SEM:BIBLIUNI",
+        "code": "SEM:GENBIBLIUNI",
+        "city": "Gières",
+        "name": "Université - Bibliothèques",
+        "visible": true,
+        "lat": 45.19246,
+        "lon": 5.7709
+    },
+    {
+        "id": "SEM:BIOLOGIE",
+        "code": "SEM:GENBIOLOGIE",
+        "city": "Gières",
+        "name": "Université - Biologie",
+        "visible": true,
+        "lat": 45.19195,
+        "lon": 5.77474
+    },
+    {
+        "id": "SEM:VIGNATE",
+        "code": "SEM:GENVIGNATE",
+        "city": "Gières",
+        "name": "Vignate",
+        "visible": true,
+        "lat": 45.18923,
+        "lon": 5.77806
+    },
+    {
+        "id": "SEM:MUS",
+        "code": "SEM:GENMUS",
+        "city": "Meylan",
+        "name": "Maison de la Musique",
+        "visible": true,
+        "lat": 45.20959,
+        "lon": 5.78135
+    },
+    {
+        "id": "SEM:LYC",
+        "code": "SEM:GENLYC",
+        "city": "Meylan",
+        "name": "Lycée du Grésivaudan",
+        "visible": true,
+        "lat": 45.21334,
+        "lon": 5.78103
+    },
+    {
+        "id": "SEM:STMURY",
+        "code": "SEM:GENSTMURY",
+        "city": "Meylan",
+        "name": "Saint-Mury",
+        "visible": true,
+        "lat": 45.21947,
+        "lon": 5.78613
+    },
+    {
+        "id": "SEM:JAILLIER",
+        "code": "SEM:GENJAILLIER",
+        "city": "Meylan",
+        "name": "Les Jaillières",
+        "visible": true,
+        "lat": 45.22103,
+        "lon": 5.79007
+    },
+    {
+        "id": "SEM:DETOURBE",
+        "code": "SEM:GENDETOURBE",
+        "city": "Meylan",
+        "name": "La Détourbe",
+        "visible": true,
+        "lat": 45.22278,
+        "lon": 5.7927
+    },
+    {
+        "id": "SEM:AGD",
+        "code": "SEM:GENAGD",
+        "city": "Montbonnot-Saint-Martin",
+        "name": "Avenue du Général de Gaulle",
+        "visible": true,
+        "lat": 45.22485,
+        "lon": 5.79781
+    },
+    {
+        "id": "SEM:MG",
+        "code": "SEM:GENMG",
+        "city": "Montbonnot-Saint-Martin",
+        "name": "Montbonnot Gare",
+        "visible": true,
+        "lat": 45.22834,
+        "lon": 5.80434
+    },
+    {
+        "id": "SEM:13300",
+        "code": "SEM:GEN13300",
+        "city": "Biviers",
+        "name": "Les Claverins",
+        "visible": true,
+        "lat": 45.23334,
+        "lon": 5.8085
+    },
+    {
+        "id": "SEM:EVE",
+        "code": "SEM:GENEVE",
+        "city": "Montbonnot-Saint-Martin",
+        "name": "Les Évêquaux",
+        "visible": true,
+        "lat": 45.23879,
+        "lon": 5.81757
+    },
+    {
+        "id": "SEM:COG",
+        "code": "SEM:GENCOG",
+        "city": "Saint-Ismier",
+        "name": "Collège Grésivaudan",
+        "visible": true,
+        "lat": 45.24028,
+        "lon": 5.82078
+    },
+    {
+        "id": "SEM:CHRA",
+        "code": "SEM:GENCHRA",
+        "city": "Saint-Ismier",
+        "name": "Château Randon",
+        "visible": true,
+        "lat": 45.24222,
+        "lon": 5.82451
+    },
+    {
+        "id": "SEM:SIG",
+        "code": "SEM:GENSIG",
+        "city": "Saint-Ismier",
+        "name": "Saint-Ismier Gare",
+        "visible": true,
+        "lat": 45.24594,
+        "lon": 5.83112
+    },
+    {
+        "id": "SEM:LEMA",
+        "code": "SEM:GENLEMA",
+        "city": "Saint-Ismier",
+        "name": "Les Maréchaux",
+        "visible": true,
+        "lat": 45.24994,
+        "lon": 5.83626
+    },
+    {
+        "id": "SEM:MEMO",
+        "code": "SEM:GENMEMO",
+        "city": "Saint-Nazaire-les-Eymes",
+        "name": "Le Mémorial",
+        "visible": true,
+        "lat": 45.25429,
+        "lon": 5.84088
+    },
+    {
+        "id": "SEM:13309",
+        "code": "SEM:GEN13309",
+        "city": "Saint-Nazaire-les-Eymes",
+        "name": "Les Eymes",
+        "visible": true,
+        "lat": 45.25635,
+        "lon": 5.84718
+    },
+    {
+        "id": "SEM:RAT",
+        "code": "SEM:GENRAT",
+        "city": "Saint-Nazaire-les-Eymes",
+        "name": "Les Ratz",
+        "visible": true,
+        "lat": 45.25833,
+        "lon": 5.85122
+    },
+    {
+        "id": "SEM:VAX",
+        "code": "SEM:GENVAX",
+        "city": "Bernin",
+        "name": "Les Varvoux",
+        "visible": true,
+        "lat": 45.26404,
+        "lon": 5.85915
+    },
+    {
+        "id": "SEM:CVAX",
+        "code": "SEM:GENCVAX",
+        "city": "Bernin",
+        "name": "Croix des Varvoux",
+        "visible": true,
+        "lat": 45.26623,
+        "lon": 5.86216
+    },
+    {
+        "id": "SEM:BERV",
+        "code": "SEM:GENBERV",
+        "city": "Bernin",
+        "name": "Bernin Village",
+        "visible": true,
+        "lat": 45.27051,
+        "lon": 5.86748
+    },
+    {
+        "id": "SEM:PBER",
+        "code": "SEM:GENPBER",
+        "city": "Crolles",
+        "name": "Pont de Bernin",
+        "visible": true,
+        "lat": 45.27394,
+        "lon": 5.87009
+    },
+    {
+        "id": "SEM:LPO",
+        "code": "SEM:GENLPO",
+        "city": "Crolles",
+        "name": "Les Pompiers",
+        "visible": true,
+        "lat": 45.27516,
+        "lon": 5.87978
+    },
+    {
+        "id": "SEM:TESS",
+        "code": "SEM:GENTESS",
+        "city": "Crolles",
+        "name": "Teisseire",
+        "visible": true,
+        "lat": 45.27219,
+        "lon": 5.88748
+    },
+    {
+        "id": "SEM:RPR",
+        "code": "SEM:GENRPR",
+        "city": "Crolles",
+        "name": "Rue du Pré Roux",
+        "visible": true,
+        "lat": 45.27094,
+        "lon": 5.88743
+    },
+    {
+        "id": "SEM:STM",
+        "code": "SEM:GENSTM",
+        "city": "Crolles",
+        "name": "ST Microelectronics",
+        "visible": true,
+        "lat": 45.26694,
+        "lon": 5.88495
+    },
+    {
+        "id": "SEM:CLY",
+        "code": "SEM:GENCLY",
+        "city": "Bernin",
+        "name": "Cloyères",
+        "visible": true,
+        "lat": 45.2645,
+        "lon": 5.87928
+    },
+    {
+        "id": "SEM:VIFGARE",
+        "code": "SEM:GENVIFGARE",
+        "city": "Vif",
+        "name": "Vif Gare",
+        "visible": true,
+        "lat": 45.04824,
+        "lon": 5.68573
+    },
+    {
+        "id": "SEM:STGCOMMI",
+        "code": "SEM:GENSTGCOMMI",
+        "city": "Saint-Georges-de-Commiers",
+        "name": "St-Georges-de-Commiers Gare",
+        "visible": true,
+        "lat": 45.04363,
+        "lon": 5.70174
+    },
+    {
+        "id": "SEM:GARES",
+        "code": "SEM:GENGARES",
+        "city": "Grenoble",
+        "name": "Gares",
+        "visible": true,
+        "lat": 45.19078,
+        "lon": 5.71554
+    },
+    {
+        "id": "SEM:ALSACELO",
+        "code": "SEM:GENALSACELO",
+        "city": "Grenoble",
+        "name": "Alsace-Lorraine",
+        "visible": true,
+        "lat": 45.18911,
+        "lon": 5.7193
+    },
+    {
+        "id": "SEM:CONDORCE",
+        "code": "SEM:GENCONDORCE",
+        "city": "Grenoble",
+        "name": "Condorcet",
+        "visible": true,
+        "lat": 45.18553,
+        "lon": 5.71823
+    },
+    {
+        "id": "SEM:VALLIBE",
+        "code": "SEM:GENVALLIBE",
+        "city": "Grenoble",
+        "name": "Vallier - Libération",
+        "visible": true,
+        "lat": 45.18013,
+        "lon": 5.71608
+    },
+    {
+        "id": "SEM:VALLCATA",
+        "code": "SEM:GENVALLCATA",
+        "city": "Grenoble",
+        "name": "Vallier - Catane",
+        "visible": true,
+        "lat": 45.18002,
+        "lon": 5.70558
+    },
+    {
+        "id": "SEM:ROCHEFOR",
+        "code": "SEM:GENROCHEFOR",
+        "city": "Varces-Allières-et-Risset",
+        "name": "Le Rochefort",
+        "visible": true,
+        "lat": 45.10164,
+        "lon": 5.68534
+    },
+    {
+        "id": "SEM:STEANGE",
+        "code": "SEM:GENSTEANGE",
+        "city": "Varces-Allières-et-Risset",
+        "name": "Saint-Ange",
+        "visible": true,
+        "lat": 45.09683,
+        "lon": 5.68367
+    },
+    {
+        "id": "SEM:RONDEURO",
+        "code": "SEM:GENRONDEURO",
+        "city": "Varces-Allières-et-Risset",
+        "name": "Rond-Point de l'Europe",
+        "visible": true,
+        "lat": 45.09312,
+        "lon": 5.68375
+    },
+    {
+        "id": "SEM:ORIEL",
+        "code": "SEM:GENORIEL",
+        "city": "Varces-Allières-et-Risset",
+        "name": "L'Oriel",
+        "visible": true,
+        "lat": 45.08937,
+        "lon": 5.68355
+    },
+    {
+        "id": "SEM:VARCESRE",
+        "code": "SEM:GENVARCESRE",
+        "city": "Varces-Allières-et-Risset",
+        "name": "République",
+        "visible": true,
+        "lat": 45.08635,
+        "lon": 5.68298
+    },
+    {
+        "id": "SEM:PELISIER",
+        "code": "SEM:GENPELISIER",
+        "city": "Varces-Allières-et-Risset",
+        "name": "Pélissière",
+        "visible": true,
+        "lat": 45.07057,
+        "lon": 5.67506
+    },
+    {
+        "id": "SEM:GARCINS",
+        "code": "SEM:GENGARCINS",
+        "city": "Vif",
+        "name": "Les Garcins",
+        "visible": true,
+        "lat": 45.06389,
+        "lon": 5.66986
+    },
+    {
+        "id": "SEM:URIOL",
+        "code": "SEM:GENURIOL",
+        "city": "Vif",
+        "name": "Uriol",
+        "visible": true,
+        "lat": 45.06063,
+        "lon": 5.66856
+    },
+    {
+        "id": "SEM:VIFMAIRI",
+        "code": "SEM:GENVIFMAIRI",
+        "city": "Vif",
+        "name": "Vif Mairie",
+        "visible": true,
+        "lat": 45.05584,
+        "lon": 5.66897
+    },
+    {
+        "id": "SEM:VIFGEND",
+        "code": "SEM:GENVIFGEND",
+        "city": "Vif",
+        "name": "Rivalta",
+        "visible": true,
+        "lat": 45.05301,
+        "lon": 5.67655
+    },
+    {
+        "id": "SEM:MASSEGU",
+        "code": "SEM:GENMASSEGU",
+        "city": "Vif",
+        "name": "Le Masségu",
+        "visible": true,
+        "lat": 45.05194,
+        "lon": 5.67464
+    },
+    {
+        "id": "SEM:LAVALONE",
+        "code": "SEM:GENLAVALONE",
+        "city": "Vif",
+        "name": "La Valonne",
+        "visible": true,
+        "lat": 45.05031,
+        "lon": 5.67129
+    },
+    {
+        "id": "SEM:CIMEBOUR",
+        "code": "SEM:GENCIMEBOUR",
+        "city": "Vif",
+        "name": "La Cime du Bourg",
+        "visible": true,
+        "lat": 45.04812,
+        "lon": 5.66739
+    },
+    {
+        "id": "SEM:CHALET",
+        "code": "SEM:GENCHALET",
+        "city": "Vif",
+        "name": "Le Chalet",
+        "visible": true,
+        "lat": 45.04333,
+        "lon": 5.6644
+    },
+    {
+        "id": "SEM:GRANGE",
+        "code": "SEM:GENGRANGE",
+        "city": "Vif",
+        "name": "La Grange",
+        "visible": true,
+        "lat": 45.03933,
+        "lon": 5.66126
+    },
+    {
+        "id": "SEM:LERIF",
+        "code": "SEM:GENLERIF",
+        "city": "Vif",
+        "name": "Le Rif",
+        "visible": true,
+        "lat": 45.0323,
+        "lon": 5.65546
+    },
+    {
+        "id": "SEM:USINENOR",
+        "code": "SEM:GENUSINENOR",
+        "city": "Vif",
+        "name": "L'Usine Nord",
+        "visible": true,
+        "lat": 45.03,
+        "lon": 5.65281
+    },
+    {
+        "id": "SEM:PONTGENE",
+        "code": "SEM:GENPONTGENE",
+        "city": "Vif",
+        "name": "Le Pont de Genevrey",
+        "visible": true,
+        "lat": 45.02852,
+        "lon": 5.65171
+    },
+    {
+        "id": "SEM:SAILLANT",
+        "code": "SEM:GENSAILLANT",
+        "city": "Le Gua",
+        "name": "Les Saillants",
+        "visible": true,
+        "lat": 45.02463,
+        "lon": 5.6458
+    }
+]
