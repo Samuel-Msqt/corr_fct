@@ -13,7 +13,7 @@ from . import plot_style
 from .animate import animate
 from .cities import CITIES
 from .correlation import footprint_randoms, local_projection, measure
-from .plots import save_city_plots, save_comparison
+from .plots import save_city_plots, save_comparison, xi_maximum
 
 RANDOMS_PER_STATION = 20
 
@@ -51,6 +51,10 @@ def main():
 
     if len(results) > 1:
         save_comparison(results, args.out / "xi_comparison.png")
+        with open(args.out / "xi_maxima.csv", "w") as f:
+            f.write("city,r_km,xi_max\n")
+            for name, corr in results.items():
+                f.write("{},{:.4f},{:.4f}\n".format(name, *xi_maximum(corr)))
 
 
 if __name__ == "__main__":

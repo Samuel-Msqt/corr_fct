@@ -55,7 +55,7 @@ def save_city_plots(city, to_km, data, randoms, corr, outdir):
     fig, ax = plt.subplots(figsize=(7, 7))
     draw_map(ax, city, to_km, data)
     shown = randoms[:5 * len(data)]  # randoms are in random order: any slice is a fair subsample
-    ax.scatter(shown[:, 0], shown[:, 1], s=1, color=RANDOMS_COLOR, lw=0, zorder=0.5)
+    ax.scatter(shown[:, 0], shown[:, 1], s=6, color=RANDOMS_COLOR, alpha=0.3, lw=0, zorder=0.5)
     ax.scatter([], [], color=STATIONS_COLOR, label=f"Stations ({len(data)})")
     ax.scatter([], [], color=RANDOMS_COLOR, label="Randoms")
     ax.legend(loc="upper left", ncol=2)
@@ -77,12 +77,21 @@ def save_city_plots(city, to_km, data, randoms, corr, outdir):
     plt.close(fig)
 
 
+def xi_maximum(corr):
+    """(separation [km], xi) of the highest bin."""
+    i = np.nanargmax(corr.xi)
+    return corr.centers[i], corr.xi[i]
+
+
 def save_comparison(results, path):
     fig, ax = plt.subplots()
     for name, corr in results.items():
-        draw_xi(ax, corr, color=None, label=name)
+        r_max, xi_max = xi_maximum(corr)
+        line = draw_xi(ax, corr, color=None,
+                       label=rf"{name}: max $\xi$ = {xi_max:.2f} at {1000 * r_max:.0f} m")
+        ax.plot(r_max, xi_max, "o", color=line.get_color(), ms=5, zorder=5)
     ax.set_ylim(*xi_limits(np.concatenate([c.xi for c in results.values()])))
-    ax.legend()
+    ax.legend(fontsize=13)
     ax.set_title("Station correlation function")
     fig.savefig(path)
     plt.close(fig)
