@@ -1,5 +1,9 @@
 import matplotlib.pyplot as plt
 
+STATIONS_COLOR = "#0072B2"
+RANDOMS_COLOR = "#E69F00"
+PAIR_COLOR = "#D55E00"
+
 plt_params = {
     "figure.figsize": [7.5, 4.5],
     "figure.dpi": 100,
@@ -7,14 +11,13 @@ plt_params = {
     "font.family": "serif",
     "font.serif": ["cmr10"],
     "axes.formatter.use_mathtext": True,
-    "mathtext.fontset": "cm", 
+    "mathtext.fontset": "cm",
     "font.size": 16,
     "axes.labelsize": 16,
-    "axes.titlesize": 14,
+    "axes.titlesize": 18,
     "xtick.labelsize": 14,
     "ytick.labelsize": 14,
     "legend.fontsize": 16,
-    "axes.titlesize": 18,
     "legend.title_fontsize": 12,
     "axes.linewidth": 1.0,
     "xtick.major.width": 1.0,
@@ -33,14 +36,12 @@ plt_params = {
     "axes.labelcolor": "black",
     "axes.edgecolor": "black",
     "xtick.color": "black",
-    # "figure.constrained_layout.use": True,
-    # "figure.constrained_layout.h_pad": 0.005,
-    # "figure.constrained_layout.w_pad": 0.005,
-    # "figure.constrained_layout.hspace": 0.005,
-    # "figure.constrained_layout.wspace": 0.005,
     "axes.prop_cycle": plt.cycler('color', ['#E69F00', '#56B4E9', '#009E73', '#0072B2', '#D55E00', '#CC79A7', '#F0E442', '#000000']),
-    "legend.frameon": False
+    "legend.frameon": False,
+    "savefig.bbox": "tight",
+    "savefig.dpi": 150,
 }
 
 
-plt.rcParams.update(plt_params)
+def apply():
+    plt.rcParams.update(plt_params)
